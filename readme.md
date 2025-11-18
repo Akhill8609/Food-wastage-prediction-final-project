@@ -12,10 +12,14 @@ What’s included
 
 Screenshots attached to this README (see file names below):
 
-- `/data/Screenshot (360).png` — Login screen (desktop).
-- `/data/Screenshot (361).png` — Main form (initial state).
-- `/data/Screenshot (362).png` — Prediction result with KPIs and charts.
-- `/data/Screenshot (363).png` — Full page after prediction (shows charts and KPIs).
+- <img width="1920" height="1080" alt="Screenshot (360)" src="https://github.com/user-attachments/assets/a7d0b135-fdc5-452b-a120-90f352c72376" />
+— Login screen (desktop).
+- <img width="1920" height="1080" alt="Screenshot (361)" src="https://github.com/user-attachments/assets/bb159b64-0d79-4e11-ac20-8a754c67ded3" />
+ — Main form (initial state).
+- <img width="1920" height="1080" alt="Screenshot (362)" src="https://github.com/user-attachments/assets/3be9b425-0786-4704-8ec1-5fe5436823e9" />
+ — Prediction result with KPIs and charts.
+- <img width="1920" height="1080" alt="Screenshot (363)" src="https://github.com/user-attachments/assets/7f31b309-dc00-46b3-8419-fbd6ba106284" />
+ — Full page after prediction (shows charts and KPIs).
 
 > These screenshots were provided by the developer to illustrate the UI and demo flow.
 
@@ -125,4 +129,5 @@ If you want any of the following, I can update the README or code:
 ---
 
 *README generated on request. Screenshots are included in the repository under `/mnt/data/` as provided.*
+
 
