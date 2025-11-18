@@ -1,0 +1,1201 @@
+Household_Size,Daily_Meal_Count,Meal_Type,Shopping_Habit,Storage_Availability,Awareness_of_Waste_Management,Leftovers_Frequency,Income_Range,Cooking_Preference,Cultural_Cuisine_Preference,Perishability_Awareness,Seasonal_Variation,Weekly_Food_Waste_kg
+1,4,Vegetarian,Weekly,Large,Medium,Never,Low,Batch Cooking,North Indian,Not aware,Winter,2.3
+5,2,Vegetarian,Weekly,Large,Medium,Sometimes,Low,Batch Cooking,Chinese,Somewhat aware,Summer,1.68
+4,4,Mixed,Daily,Small,High,Sometimes,Low,Reheated,Indian,Not aware,Monsoon,2.8
+3,4,Non-Vegetarian,Daily,Small,Medium,Never,Medium,Fresh Daily,Street Food,Not aware,All year,4.21
+3,3,Non-Vegetarian,Daily,Large,Medium,Sometimes,Low,Fresh Daily,Chinese,Not aware,Monsoon,2.7
+6,4,Non-Vegetarian,Bulk Buying,Large,Low,Never,Low,Batch Cooking,Italian,Aware,All year,4.48
+1,3,Vegetarian,Weekly,Large,Low,Sometimes,Low,Reheated,Fusion,Somewhat aware,Monsoon,1.48
+5,3,Mixed,Bulk Buying,Medium,Medium,Often,Low,Fresh Daily,Fusion,Not aware,Winter,4.83
+2,2,Vegetarian,Daily,Large,Medium,Sometimes,Medium,Fresh Daily,Chinese,Somewhat aware,Summer,0.48
+1,4,Mixed,Weekly,Medium,Medium,Sometimes,Medium,Batch Cooking,Italian,Not aware,Winter,3.01
+4,3,Vegetarian,Daily,Small,Medium,Sometimes,Low,Batch Cooking,Italian,Somewhat aware,Winter,2.27
+6,4,Vegetarian,Bulk Buying,Medium,Medium,Never,High,Fresh Daily,Indian,Somewhat aware,Monsoon,4.11
+5,2,Non-Vegetarian,Weekly,Medium,Low,Often,High,Batch Cooking,Indian,Not aware,Summer,4.4
+5,4,Vegetarian,Daily,Large,Medium,Sometimes,Low,Fresh Daily,North Indian,Not aware,Monsoon,3.4
+5,1,Vegetarian,Bulk Buying,Large,Low,Sometimes,High,Fresh Daily,Street Food,Not aware,Summer,3.9
+5,1,Mixed,Weekly,Large,Medium,Sometimes,Low,Fresh Daily,Indian,Somewhat aware,All year,1.03
+4,3,Vegetarian,Daily,Large,Low,Sometimes,Medium,Batch Cooking,Chinese,Not aware,Winter,2.79
+1,3,Mixed,Weekly,Small,Medium,Sometimes,Low,Fresh Daily,South Indian,Not aware,All year,1.87
+6,4,Non-Vegetarian,Weekly,Large,High,Never,Medium,Reheated,Street Food,Somewhat aware,Summer,3.87
+3,2,Non-Vegetarian,Daily,Medium,High,Often,Low,Batch Cooking,North Indian,Aware,Summer,2.3
+4,3,Vegetarian,Bulk Buying,Small,Low,Often,Low,Batch Cooking,Street Food,Aware,Monsoon,5.0
+3,3,Non-Vegetarian,Weekly,Small,High,Sometimes,Low,Fresh Daily,Chinese,Not aware,Monsoon,3.0
+2,4,Vegetarian,Bulk Buying,Large,High,Often,Low,Batch Cooking,South Indian,Somewhat aware,Summer,3.62
+6,3,Non-Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Low,Fresh Daily,Chinese,Not aware,Summer,3.87
+5,2,Non-Vegetarian,Weekly,Large,Medium,Never,Low,Fresh Daily,Fusion,Aware,Monsoon,2.23
+4,4,Vegetarian,Bulk Buying,Large,Low,Never,Low,Fresh Daily,Chinese,Somewhat aware,All year,3.5
+3,1,Vegetarian,Weekly,Small,High,Sometimes,High,Reheated,North Indian,Not aware,All year,2.39
+5,4,Vegetarian,Weekly,Large,Medium,Often,Medium,Fresh Daily,South Indian,Somewhat aware,Summer,3.44
+4,1,Vegetarian,Daily,Medium,Low,Often,Low,Fresh Daily,North Indian,Not aware,Winter,2.57
+3,2,Non-Vegetarian,Weekly,Large,Medium,Sometimes,Medium,Fresh Daily,Fusion,Not aware,Winter,2.34
+3,4,Non-Vegetarian,Bulk Buying,Medium,High,Sometimes,Low,Reheated,Indian,Somewhat aware,Winter,3.79
+2,3,Mixed,Weekly,Large,Medium,Sometimes,Medium,Batch Cooking,Street Food,Not aware,Monsoon,3.28
+1,4,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Fresh Daily,Fusion,Not aware,Summer,2.1
+4,3,Non-Vegetarian,Bulk Buying,Small,Low,Often,Low,Fresh Daily,Italian,Somewhat aware,Summer,4.75
+6,3,Mixed,Weekly,Small,Medium,Sometimes,Low,Fresh Daily,Fusion,Not aware,Summer,3.05
+1,2,Vegetarian,Weekly,Small,Medium,Often,Medium,Reheated,Chinese,Somewhat aware,Summer,2.25
+6,1,Non-Vegetarian,Daily,Medium,Medium,Sometimes,Medium,Fresh Daily,Italian,Not aware,Summer,2.72
+5,1,Vegetarian,Daily,Medium,Low,Often,High,Batch Cooking,South Indian,Aware,Winter,2.29
+2,2,Non-Vegetarian,Bulk Buying,Large,Medium,Sometimes,Low,Fresh Daily,South Indian,Not aware,Summer,3.22
+4,1,Non-Vegetarian,Weekly,Medium,High,Never,Low,Batch Cooking,Indian,Aware,Monsoon,1.71
+1,3,Vegetarian,Daily,Medium,Low,Sometimes,High,Fresh Daily,Street Food,Somewhat aware,Winter,2.66
+5,4,Vegetarian,Daily,Small,High,Sometimes,High,Batch Cooking,South Indian,Not aware,All year,3.72
+5,4,Mixed,Bulk Buying,Small,Medium,Often,Low,Fresh Daily,Chinese,Aware,Winter,5.19
+3,2,Vegetarian,Weekly,Small,Medium,Often,Low,Reheated,Fusion,Not aware,All year,3.81
+1,4,Non-Vegetarian,Daily,Small,Medium,Often,Low,Fresh Daily,Street Food,Somewhat aware,All year,4.88
+6,4,Non-Vegetarian,Daily,Medium,Medium,Often,Medium,Batch Cooking,Indian,Not aware,Monsoon,5.33
+3,4,Vegetarian,Daily,Medium,Medium,Never,Medium,Fresh Daily,Street Food,Not aware,Summer,3.8
+6,2,Non-Vegetarian,Weekly,Large,High,Sometimes,Low,Fresh Daily,Chinese,Aware,All year,2.01
+5,2,Mixed,Bulk Buying,Medium,Low,Never,Medium,Batch Cooking,Chinese,Not aware,Summer,3.75
+5,4,Mixed,Bulk Buying,Small,Low,Often,Low,Batch Cooking,North Indian,Not aware,Monsoon,5.71
+5,1,Vegetarian,Weekly,Medium,High,Sometimes,Medium,Reheated,Street Food,Somewhat aware,Winter,1.76
+2,2,Vegetarian,Daily,Medium,Medium,Sometimes,Low,Batch Cooking,Street Food,Not aware,Monsoon,2.81
+3,1,Vegetarian,Weekly,Small,Medium,Often,Medium,Reheated,South Indian,Aware,Summer,2.36
+3,4,Non-Vegetarian,Weekly,Large,Low,Sometimes,High,Fresh Daily,North Indian,Not aware,Monsoon,3.06
+3,3,Non-Vegetarian,Daily,Medium,Medium,Sometimes,Medium,Reheated,Street Food,Not aware,Summer,3.39
+1,1,Vegetarian,Weekly,Medium,Low,Sometimes,High,Fresh Daily,Fusion,Aware,Summer,0.59
+4,1,Non-Vegetarian,Daily,Large,Medium,Often,Low,Batch Cooking,Fusion,Somewhat aware,Monsoon,2.1
+1,3,Vegetarian,Daily,Large,Medium,Sometimes,Medium,Batch Cooking,Indian,Not aware,Summer,2.3
+5,3,Vegetarian,Bulk Buying,Large,Medium,Sometimes,Low,Reheated,Chinese,Aware,Winter,3.09
+5,4,Mixed,Daily,Small,Low,Never,Low,Reheated,Indian,Not aware,All year,3.42
+6,2,Mixed,Weekly,Medium,High,Sometimes,Medium,Batch Cooking,South Indian,Not aware,Winter,1.45
+5,4,Non-Vegetarian,Daily,Medium,Low,Never,Low,Reheated,South Indian,Somewhat aware,Summer,3.19
+3,2,Mixed,Weekly,Medium,Low,Sometimes,High,Fresh Daily,Indian,Somewhat aware,All year,1.95
+6,4,Vegetarian,Weekly,Medium,Medium,Never,Medium,Batch Cooking,North Indian,Not aware,Winter,3.28
+3,1,Vegetarian,Daily,Small,Medium,Often,Low,Reheated,Italian,Somewhat aware,All year,1.88
+2,1,Mixed,Weekly,Medium,High,Sometimes,Medium,Batch Cooking,Street Food,Not aware,Winter,1.44
+6,1,Mixed,Bulk Buying,Medium,Medium,Often,Medium,Fresh Daily,North Indian,Not aware,All year,3.8
+3,2,Vegetarian,Weekly,Medium,Medium,Never,Medium,Fresh Daily,Indian,Not aware,Monsoon,1.88
+1,4,Vegetarian,Weekly,Medium,Medium,Sometimes,High,Batch Cooking,Italian,Somewhat aware,Summer,1.72
+3,1,Mixed,Daily,Small,Low,Sometimes,Medium,Reheated,Indian,Somewhat aware,Monsoon,1.3
+5,2,Mixed,Bulk Buying,Small,Medium,Often,Low,Fresh Daily,Street Food,Aware,Summer,4.51
+2,1,Mixed,Weekly,Small,Medium,Sometimes,Medium,Batch Cooking,South Indian,Not aware,Winter,2.29
+3,4,Mixed,Daily,Small,Low,Often,Medium,Fresh Daily,Italian,Somewhat aware,Monsoon,3.55
+1,3,Non-Vegetarian,Daily,Small,Medium,Sometimes,Low,Fresh Daily,Street Food,Not aware,Winter,3.92
+5,4,Vegetarian,Weekly,Medium,Medium,Never,High,Reheated,Chinese,Not aware,Winter,4.07
+3,3,Vegetarian,Weekly,Small,Low,Sometimes,Medium,Batch Cooking,Street Food,Not aware,Monsoon,3.89
+2,3,Mixed,Weekly,Small,Low,Sometimes,Medium,Fresh Daily,North Indian,Not aware,Winter,2.07
+2,4,Non-Vegetarian,Weekly,Large,Medium,Never,Medium,Batch Cooking,South Indian,Not aware,All year,3.17
+4,1,Non-Vegetarian,Weekly,Small,High,Often,Low,Reheated,North Indian,Not aware,Summer,2.44
+5,4,Mixed,Daily,Medium,High,Often,High,Batch Cooking,Fusion,Somewhat aware,All year,4.08
+6,3,Mixed,Weekly,Medium,Low,Often,Low,Batch Cooking,South Indian,Somewhat aware,Winter,3.68
+3,3,Non-Vegetarian,Daily,Large,Medium,Sometimes,Low,Fresh Daily,Fusion,Aware,Summer,2.92
+1,2,Vegetarian,Bulk Buying,Medium,High,Sometimes,Medium,Reheated,Chinese,Not aware,All year,0.93
+5,4,Mixed,Daily,Small,Medium,Sometimes,Low,Batch Cooking,Fusion,Not aware,Monsoon,3.09
+4,2,Vegetarian,Weekly,Large,Medium,Often,Medium,Fresh Daily,Fusion,Aware,Winter,2.49
+5,1,Non-Vegetarian,Daily,Medium,Low,Sometimes,Low,Fresh Daily,South Indian,Somewhat aware,Summer,1.68
+1,4,Non-Vegetarian,Weekly,Medium,Medium,Never,Low,Fresh Daily,Indian,Not aware,Summer,2.78
+2,1,Non-Vegetarian,Weekly,Medium,Medium,Never,Medium,Fresh Daily,Fusion,Not aware,Summer,1.86
+5,1,Mixed,Daily,Medium,Medium,Sometimes,Medium,Batch Cooking,Street Food,Aware,Monsoon,2.02
+5,3,Mixed,Weekly,Medium,Low,Sometimes,High,Fresh Daily,Indian,Somewhat aware,Summer,2.85
+3,1,Vegetarian,Bulk Buying,Medium,Low,Never,High,Fresh Daily,North Indian,Somewhat aware,All year,2.23
+5,4,Vegetarian,Bulk Buying,Medium,High,Sometimes,Medium,Reheated,Chinese,Not aware,Summer,2.56
+6,2,Mixed,Weekly,Large,Low,Sometimes,Low,Fresh Daily,Italian,Not aware,Winter,2.9
+3,1,Mixed,Weekly,Small,Medium,Sometimes,Medium,Batch Cooking,South Indian,Aware,Summer,1.66
+6,4,Vegetarian,Bulk Buying,Medium,Low,Sometimes,Low,Fresh Daily,Chinese,Somewhat aware,Summer,4.03
+2,3,Vegetarian,Bulk Buying,Medium,Medium,Often,High,Fresh Daily,North Indian,Somewhat aware,All year,3.68
+2,2,Mixed,Weekly,Small,High,Sometimes,Low,Fresh Daily,Chinese,Not aware,Summer,1.32
+5,3,Vegetarian,Daily,Medium,Medium,Sometimes,Low,Fresh Daily,South Indian,Not aware,All year,2.86
+4,3,Non-Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Medium,Batch Cooking,Street Food,Somewhat aware,Summer,4.63
+1,1,Mixed,Weekly,Large,Medium,Often,Low,Reheated,North Indian,Not aware,Monsoon,1.91
+5,4,Vegetarian,Weekly,Medium,Medium,Often,Low,Fresh Daily,Indian,Not aware,Monsoon,4.66
+2,2,Vegetarian,Daily,Medium,Medium,Often,Low,Reheated,Street Food,Not aware,Summer,3.62
+5,3,Vegetarian,Daily,Medium,Low,Sometimes,Medium,Fresh Daily,Italian,Somewhat aware,Monsoon,3.24
+1,4,Vegetarian,Weekly,Large,High,Never,Medium,Fresh Daily,Chinese,Somewhat aware,Monsoon,1.26
+5,3,Vegetarian,Daily,Medium,Medium,Never,Medium,Reheated,Street Food,Not aware,Winter,3.67
+5,3,Non-Vegetarian,Weekly,Small,High,Often,Low,Fresh Daily,Indian,Somewhat aware,Winter,3.1
+5,2,Non-Vegetarian,Daily,Large,Medium,Often,Medium,Reheated,Chinese,Not aware,Monsoon,3.32
+4,1,Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Medium,Fresh Daily,North Indian,Not aware,Monsoon,2.59
+3,2,Non-Vegetarian,Daily,Medium,Medium,Sometimes,Low,Reheated,Indian,Somewhat aware,Summer,2.05
+5,4,Mixed,Daily,Medium,Medium,Sometimes,Low,Fresh Daily,North Indian,Not aware,Summer,2.56
+2,3,Mixed,Weekly,Medium,Medium,Sometimes,Medium,Fresh Daily,Chinese,Somewhat aware,Summer,1.58
+5,2,Mixed,Bulk Buying,Medium,Low,Sometimes,Medium,Reheated,Fusion,Not aware,Summer,2.95
+4,4,Vegetarian,Weekly,Medium,Medium,Often,Medium,Batch Cooking,Indian,Somewhat aware,Winter,3.36
+3,4,Mixed,Daily,Medium,Low,Often,Medium,Fresh Daily,Indian,Not aware,All year,4.53
+4,4,Vegetarian,Daily,Large,Medium,Never,Low,Reheated,Chinese,Somewhat aware,Winter,3.18
+4,2,Non-Vegetarian,Daily,Small,Medium,Never,Low,Batch Cooking,Street Food,Somewhat aware,Monsoon,3.57
+1,3,Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Reheated,North Indian,Aware,Monsoon,1.76
+1,3,Vegetarian,Daily,Medium,Low,Never,Medium,Batch Cooking,South Indian,Not aware,Monsoon,1.76
+2,2,Vegetarian,Daily,Small,High,Sometimes,Low,Batch Cooking,Italian,Not aware,Monsoon,1.51
+1,2,Non-Vegetarian,Bulk Buying,Small,Medium,Sometimes,High,Fresh Daily,North Indian,Not aware,Winter,3.58
+3,1,Mixed,Weekly,Small,Medium,Never,High,Reheated,Indian,Not aware,Summer,2.0
+5,2,Vegetarian,Bulk Buying,Small,Medium,Sometimes,Medium,Batch Cooking,Indian,Aware,Winter,3.2
+4,3,Non-Vegetarian,Daily,Medium,High,Sometimes,Medium,Fresh Daily,Fusion,Not aware,All year,2.29
+3,4,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Fresh Daily,Fusion,Somewhat aware,Monsoon,2.97
+6,4,Non-Vegetarian,Bulk Buying,Small,Low,Never,Low,Batch Cooking,South Indian,Aware,Summer,5.22
+4,1,Vegetarian,Daily,Medium,Medium,Sometimes,Low,Batch Cooking,Chinese,Not aware,Monsoon,1.52
+1,3,Non-Vegetarian,Weekly,Medium,Medium,Often,High,Reheated,Indian,Not aware,Winter,4.13
+5,1,Non-Vegetarian,Daily,Large,Medium,Often,Medium,Batch Cooking,Street Food,Not aware,Summer,4.65
+4,3,Mixed,Daily,Large,Low,Never,Medium,Fresh Daily,North Indian,Aware,Monsoon,2.3
+4,2,Mixed,Weekly,Medium,Medium,Often,Medium,Batch Cooking,North Indian,Somewhat aware,Summer,2.55
+4,2,Vegetarian,Weekly,Medium,Medium,Often,Low,Fresh Daily,South Indian,Somewhat aware,Summer,2.14
+4,3,Non-Vegetarian,Daily,Medium,Medium,Sometimes,Medium,Batch Cooking,Chinese,Somewhat aware,Winter,2.45
+1,2,Mixed,Daily,Medium,High,Sometimes,Low,Batch Cooking,Indian,Not aware,All year,1.44
+4,4,Mixed,Weekly,Medium,Medium,Sometimes,High,Batch Cooking,Italian,Not aware,Winter,3.43
+5,3,Mixed,Daily,Medium,High,Sometimes,Low,Fresh Daily,Chinese,Not aware,All year,2.14
+2,4,Mixed,Weekly,Large,Low,Sometimes,High,Fresh Daily,Chinese,Aware,All year,2.53
+4,3,Non-Vegetarian,Weekly,Small,High,Sometimes,Low,Batch Cooking,North Indian,Aware,Summer,2.19
+1,2,Mixed,Daily,Large,High,Sometimes,Medium,Batch Cooking,South Indian,Not aware,Summer,0.23
+3,4,Mixed,Bulk Buying,Small,Low,Sometimes,Low,Fresh Daily,Chinese,Somewhat aware,Monsoon,3.51
+3,2,Non-Vegetarian,Bulk Buying,Small,High,Often,High,Batch Cooking,North Indian,Somewhat aware,Winter,4.1
+6,3,Non-Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Low,Batch Cooking,Indian,Somewhat aware,All year,4.55
+2,1,Non-Vegetarian,Daily,Medium,Medium,Often,Low,Fresh Daily,Street Food,Somewhat aware,Summer,3.78
+2,1,Vegetarian,Bulk Buying,Small,Medium,Never,Low,Batch Cooking,South Indian,Not aware,Monsoon,2.87
+3,3,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Fresh Daily,North Indian,Aware,Winter,2.45
+6,1,Non-Vegetarian,Weekly,Large,Medium,Sometimes,Medium,Reheated,North Indian,Not aware,All year,2.61
+6,4,Mixed,Bulk Buying,Small,Low,Never,Medium,Fresh Daily,Chinese,Not aware,All year,4.82
+1,4,Mixed,Bulk Buying,Medium,Low,Sometimes,High,Fresh Daily,Fusion,Not aware,Monsoon,3.79
+2,3,Mixed,Weekly,Medium,Medium,Often,Low,Fresh Daily,North Indian,Not aware,Winter,3.4
+5,3,Vegetarian,Bulk Buying,Large,Medium,Often,Low,Batch Cooking,Italian,Not aware,Summer,5.4
+1,3,Mixed,Bulk Buying,Large,High,Sometimes,High,Batch Cooking,Chinese,Somewhat aware,Summer,1.38
+6,1,Vegetarian,Daily,Small,Medium,Often,Medium,Batch Cooking,Italian,Not aware,All year,4.01
+2,2,Non-Vegetarian,Bulk Buying,Small,Medium,Often,Medium,Reheated,Chinese,Aware,Summer,4.56
+6,2,Mixed,Weekly,Large,High,Sometimes,High,Batch Cooking,Fusion,Not aware,Monsoon,2.41
+2,4,Mixed,Weekly,Small,Low,Often,Low,Fresh Daily,North Indian,Not aware,All year,3.6
+3,1,Non-Vegetarian,Daily,Medium,Medium,Sometimes,Medium,Fresh Daily,Street Food,Not aware,Summer,2.6
+4,2,Non-Vegetarian,Weekly,Large,Medium,Sometimes,High,Reheated,Chinese,Somewhat aware,All year,2.54
+1,2,Mixed,Daily,Medium,Low,Sometimes,High,Fresh Daily,Fusion,Aware,All year,1.78
+4,1,Mixed,Daily,Medium,High,Sometimes,Medium,Fresh Daily,Fusion,Somewhat aware,Monsoon,0.98
+4,1,Non-Vegetarian,Daily,Small,Medium,Often,Low,Fresh Daily,Street Food,Not aware,All year,3.77
+5,2,Mixed,Weekly,Large,Low,Sometimes,Medium,Reheated,Chinese,Not aware,Summer,2.36
+6,1,Vegetarian,Weekly,Small,Medium,Often,Low,Fresh Daily,Fusion,Somewhat aware,All year,2.61
+4,1,Non-Vegetarian,Weekly,Small,Medium,Often,Medium,Fresh Daily,Italian,Not aware,Monsoon,3.31
+3,2,Mixed,Weekly,Small,Low,Sometimes,Low,Fresh Daily,Italian,Somewhat aware,Winter,1.29
+3,1,Mixed,Bulk Buying,Medium,High,Sometimes,Medium,Batch Cooking,North Indian,Aware,Winter,1.54
+3,3,Non-Vegetarian,Daily,Large,Medium,Sometimes,High,Reheated,Italian,Not aware,Summer,3.38
+5,1,Mixed,Daily,Medium,Medium,Sometimes,Medium,Fresh Daily,North Indian,Not aware,All year,1.37
+2,2,Vegetarian,Weekly,Small,Medium,Sometimes,Medium,Reheated,South Indian,Not aware,Winter,1.69
+2,2,Mixed,Weekly,Large,High,Sometimes,Medium,Fresh Daily,North Indian,Somewhat aware,Winter,1.48
+3,4,Vegetarian,Daily,Medium,Low,Sometimes,Low,Batch Cooking,North Indian,Not aware,Monsoon,3.03
+1,3,Vegetarian,Bulk Buying,Medium,Low,Never,Medium,Fresh Daily,Fusion,Not aware,Winter,3.06
+1,4,Mixed,Weekly,Small,High,Often,Medium,Batch Cooking,Italian,Not aware,Monsoon,2.57
+1,2,Mixed,Daily,Medium,Medium,Often,Medium,Batch Cooking,Street Food,Not aware,Winter,4.45
+5,2,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Batch Cooking,Indian,Not aware,Winter,3.04
+5,2,Vegetarian,Weekly,Medium,Medium,Often,Low,Batch Cooking,Chinese,Somewhat aware,Monsoon,3.44
+5,4,Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Fresh Daily,Fusion,Not aware,Monsoon,2.91
+3,4,Non-Vegetarian,Bulk Buying,Small,Medium,Sometimes,Low,Fresh Daily,Street Food,Not aware,All year,5.05
+5,4,Vegetarian,Weekly,Small,Low,Never,Medium,Fresh Daily,Italian,Somewhat aware,Summer,3.22
+1,4,Vegetarian,Bulk Buying,Small,Low,Never,High,Batch Cooking,South Indian,Aware,Winter,3.23
+6,3,Non-Vegetarian,Daily,Medium,Medium,Sometimes,High,Fresh Daily,Street Food,Aware,Summer,3.93
+4,3,Non-Vegetarian,Bulk Buying,Small,High,Sometimes,Medium,Fresh Daily,North Indian,Somewhat aware,Winter,3.39
+6,4,Vegetarian,Daily,Large,Low,Often,High,Fresh Daily,Chinese,Not aware,All year,4.44
+1,2,Mixed,Weekly,Medium,Medium,Sometimes,Medium,Batch Cooking,South Indian,Somewhat aware,All year,1.23
+3,2,Mixed,Weekly,Medium,Low,Sometimes,Low,Reheated,South Indian,Not aware,All year,1.77
+5,4,Mixed,Daily,Medium,Medium,Often,High,Reheated,Street Food,Somewhat aware,All year,5.06
+3,2,Non-Vegetarian,Weekly,Medium,Low,Never,Low,Reheated,Street Food,Somewhat aware,Winter,2.32
+3,1,Mixed,Weekly,Small,Medium,Sometimes,Low,Batch Cooking,Street Food,Not aware,All year,2.44
+1,3,Vegetarian,Bulk Buying,Medium,High,Sometimes,Medium,Batch Cooking,Indian,Aware,All year,1.94
+3,2,Non-Vegetarian,Daily,Medium,Low,Sometimes,Low,Batch Cooking,Street Food,Somewhat aware,All year,2.54
+2,4,Mixed,Daily,Medium,Medium,Sometimes,Medium,Fresh Daily,Fusion,Aware,Monsoon,2.62
+2,4,Vegetarian,Weekly,Small,Medium,Never,Medium,Batch Cooking,North Indian,Not aware,All year,3.21
+5,2,Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Medium,Reheated,Italian,Not aware,Winter,3.18
+4,3,Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Fresh Daily,Fusion,Somewhat aware,Monsoon,2.09
+4,4,Non-Vegetarian,Daily,Small,Low,Often,Medium,Batch Cooking,Fusion,Not aware,Summer,5.08
+3,3,Vegetarian,Weekly,Large,Medium,Sometimes,Medium,Reheated,Chinese,Somewhat aware,Summer,1.86
+6,1,Mixed,Bulk Buying,Small,Medium,Often,Medium,Batch Cooking,Chinese,Somewhat aware,All year,4.43
+1,3,Vegetarian,Daily,Medium,Medium,Sometimes,High,Fresh Daily,Indian,Not aware,Summer,1.82
+3,3,Vegetarian,Weekly,Small,High,Often,Medium,Reheated,Fusion,Aware,Winter,1.91
+1,3,Non-Vegetarian,Weekly,Small,Low,Never,Medium,Batch Cooking,Fusion,Not aware,Monsoon,2.77
+3,1,Non-Vegetarian,Weekly,Large,High,Often,High,Reheated,North Indian,Not aware,Monsoon,2.4
+6,2,Vegetarian,Weekly,Small,Low,Often,Low,Reheated,South Indian,Somewhat aware,Monsoon,3.73
+3,4,Non-Vegetarian,Weekly,Small,High,Sometimes,Low,Batch Cooking,Italian,Somewhat aware,All year,2.65
+6,1,Non-Vegetarian,Daily,Medium,Low,Sometimes,Low,Fresh Daily,Fusion,Not aware,Summer,2.9
+3,2,Mixed,Weekly,Small,Medium,Often,Medium,Reheated,Chinese,Not aware,Winter,3.87
+5,2,Vegetarian,Weekly,Large,Low,Often,Low,Fresh Daily,South Indian,Aware,All year,2.46
+3,1,Vegetarian,Weekly,Medium,Medium,Often,Low,Fresh Daily,Fusion,Somewhat aware,Summer,2.32
+2,1,Non-Vegetarian,Daily,Medium,Low,Never,High,Fresh Daily,Fusion,Aware,Monsoon,1.56
+5,2,Vegetarian,Weekly,Medium,Low,Never,Low,Batch Cooking,Fusion,Aware,Winter,2.81
+6,4,Mixed,Bulk Buying,Medium,Low,Often,Low,Fresh Daily,Indian,Aware,Winter,4.85
+2,1,Mixed,Daily,Small,Low,Often,High,Fresh Daily,North Indian,Not aware,Summer,2.74
+5,2,Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Fresh Daily,North Indian,Aware,All year,1.78
+2,1,Vegetarian,Bulk Buying,Medium,High,Sometimes,Low,Fresh Daily,Street Food,Not aware,Monsoon,2.51
+5,3,Vegetarian,Weekly,Medium,Medium,Never,Medium,Fresh Daily,South Indian,Not aware,All year,2.64
+5,2,Mixed,Bulk Buying,Medium,Medium,Never,High,Batch Cooking,Chinese,Not aware,Summer,3.36
+3,4,Non-Vegetarian,Weekly,Small,Medium,Never,Low,Fresh Daily,North Indian,Not aware,Monsoon,3.97
+5,3,Mixed,Bulk Buying,Medium,High,Sometimes,Low,Batch Cooking,Italian,Not aware,Summer,3.12
+2,4,Mixed,Weekly,Large,Medium,Sometimes,Medium,Fresh Daily,Chinese,Not aware,Monsoon,2.42
+1,3,Vegetarian,Daily,Small,Medium,Never,Medium,Fresh Daily,North Indian,Not aware,Summer,2.33
+1,2,Vegetarian,Bulk Buying,Small,High,Sometimes,Medium,Batch Cooking,North Indian,Somewhat aware,Winter,2.07
+3,4,Non-Vegetarian,Daily,Small,Medium,Never,Low,Fresh Daily,North Indian,Not aware,Monsoon,3.68
+6,2,Non-Vegetarian,Weekly,Small,Medium,Sometimes,Medium,Batch Cooking,North Indian,Not aware,Summer,4.07
+1,4,Non-Vegetarian,Weekly,Medium,Low,Often,Low,Fresh Daily,Fusion,Aware,All year,3.75
+3,4,Mixed,Daily,Small,Medium,Never,High,Reheated,North Indian,Somewhat aware,Winter,3.5
+5,3,Non-Vegetarian,Weekly,Small,Low,Sometimes,Low,Fresh Daily,Indian,Somewhat aware,All year,2.56
+2,3,Mixed,Bulk Buying,Medium,High,Sometimes,Low,Reheated,North Indian,Not aware,Summer,2.24
+5,2,Non-Vegetarian,Weekly,Medium,High,Sometimes,Medium,Fresh Daily,Italian,Somewhat aware,Summer,0.5
+2,4,Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Fresh Daily,Street Food,Not aware,All year,2.95
+5,3,Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Batch Cooking,Italian,Not aware,All year,3.4
+4,4,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Fresh Daily,Italian,Aware,Summer,2.87
+4,2,Mixed,Daily,Medium,Medium,Never,High,Batch Cooking,Fusion,Aware,All year,3.34
+2,4,Vegetarian,Bulk Buying,Medium,Low,Sometimes,Medium,Reheated,North Indian,Not aware,Summer,3.76
+3,2,Non-Vegetarian,Bulk Buying,Small,Medium,Often,Low,Fresh Daily,South Indian,Somewhat aware,Summer,4.31
+6,1,Non-Vegetarian,Bulk Buying,Medium,High,Often,High,Batch Cooking,Italian,Somewhat aware,Summer,2.85
+1,1,Mixed,Daily,Medium,Low,Sometimes,Low,Batch Cooking,South Indian,Somewhat aware,Winter,1.38
+5,3,Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Low,Batch Cooking,South Indian,Aware,All year,3.47
+3,2,Non-Vegetarian,Weekly,Medium,High,Sometimes,Low,Batch Cooking,Fusion,Not aware,Summer,1.88
+5,1,Vegetarian,Weekly,Small,Low,Never,Low,Reheated,Chinese,Somewhat aware,Summer,1.85
+4,2,Vegetarian,Bulk Buying,Medium,Medium,Never,Low,Reheated,Italian,Somewhat aware,Summer,2.49
+3,3,Mixed,Daily,Medium,Medium,Often,Low,Fresh Daily,Fusion,Somewhat aware,Monsoon,2.28
+2,2,Non-Vegetarian,Daily,Large,Medium,Sometimes,Medium,Fresh Daily,Italian,Somewhat aware,Winter,0.96
+4,4,Non-Vegetarian,Bulk Buying,Large,Medium,Sometimes,Medium,Reheated,Street Food,Somewhat aware,Winter,5.47
+1,4,Mixed,Weekly,Medium,Low,Often,Medium,Fresh Daily,Chinese,Somewhat aware,All year,3.03
+4,3,Mixed,Weekly,Large,Medium,Sometimes,Low,Batch Cooking,Street Food,Somewhat aware,Winter,4.13
+1,4,Non-Vegetarian,Weekly,Small,High,Often,High,Reheated,Fusion,Aware,Monsoon,3.09
+4,2,Mixed,Daily,Medium,Medium,Sometimes,High,Fresh Daily,South Indian,Somewhat aware,Summer,1.75
+4,1,Mixed,Daily,Large,Medium,Never,Low,Batch Cooking,Indian,Not aware,Winter,2.09
+1,1,Mixed,Daily,Medium,Low,Sometimes,High,Batch Cooking,North Indian,Not aware,Monsoon,0.97
+5,4,Non-Vegetarian,Weekly,Large,Low,Often,High,Batch Cooking,North Indian,Not aware,All year,5.74
+3,4,Non-Vegetarian,Weekly,Medium,High,Sometimes,Medium,Batch Cooking,South Indian,Aware,Winter,2.76
+5,3,Vegetarian,Bulk Buying,Large,Medium,Often,Low,Batch Cooking,Street Food,Not aware,All year,5.12
+1,1,Vegetarian,Daily,Medium,High,Sometimes,Medium,Fresh Daily,Indian,Somewhat aware,Monsoon,0.1
+2,2,Non-Vegetarian,Bulk Buying,Large,Medium,Sometimes,Medium,Fresh Daily,Fusion,Somewhat aware,All year,2.7
+3,1,Vegetarian,Daily,Small,High,Often,High,Reheated,Chinese,Not aware,Summer,2.48
+2,1,Vegetarian,Daily,Large,Low,Never,Low,Fresh Daily,North Indian,Not aware,Summer,0.67
+2,1,Non-Vegetarian,Weekly,Large,Medium,Sometimes,Low,Fresh Daily,Fusion,Aware,Summer,1.58
+4,3,Vegetarian,Weekly,Large,Medium,Sometimes,High,Batch Cooking,Chinese,Somewhat aware,All year,3.24
+1,1,Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Low,Reheated,Indian,Somewhat aware,All year,1.4
+5,4,Non-Vegetarian,Daily,Large,Low,Never,Medium,Fresh Daily,Chinese,Not aware,Summer,4.47
+1,2,Vegetarian,Daily,Small,Medium,Sometimes,Low,Fresh Daily,North Indian,Not aware,All year,1.78
+2,2,Non-Vegetarian,Daily,Large,High,Sometimes,Low,Fresh Daily,Indian,Not aware,Summer,1.48
+4,3,Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Batch Cooking,Fusion,Not aware,Monsoon,3.52
+5,4,Vegetarian,Daily,Medium,Low,Sometimes,Medium,Fresh Daily,Chinese,Not aware,Winter,2.74
+2,2,Non-Vegetarian,Weekly,Medium,Low,Sometimes,Low,Batch Cooking,Chinese,Not aware,Monsoon,2.09
+2,1,Non-Vegetarian,Daily,Medium,High,Sometimes,Medium,Batch Cooking,Indian,Not aware,All year,1.09
+6,1,Vegetarian,Weekly,Medium,Medium,Often,Medium,Reheated,South Indian,Aware,Monsoon,3.19
+6,4,Non-Vegetarian,Bulk Buying,Large,Medium,Sometimes,Medium,Reheated,Fusion,Not aware,Winter,5.09
+4,1,Mixed,Bulk Buying,Small,Medium,Often,High,Reheated,North Indian,Somewhat aware,Winter,3.54
+3,3,Mixed,Daily,Medium,Medium,Sometimes,Low,Fresh Daily,Street Food,Aware,Monsoon,3.37
+3,2,Non-Vegetarian,Weekly,Small,High,Sometimes,Low,Fresh Daily,Fusion,Not aware,Winter,2.0
+4,4,Non-Vegetarian,Daily,Small,Low,Often,Low,Reheated,North Indian,Not aware,Summer,4.68
+4,1,Vegetarian,Daily,Medium,Medium,Sometimes,Medium,Batch Cooking,South Indian,Aware,Monsoon,1.41
+2,4,Non-Vegetarian,Weekly,Medium,Medium,Never,Medium,Reheated,Fusion,Not aware,Summer,3.08
+1,3,Mixed,Daily,Medium,High,Often,Low,Fresh Daily,South Indian,Not aware,Winter,2.51
+1,2,Vegetarian,Daily,Medium,Medium,Sometimes,Medium,Fresh Daily,Indian,Not aware,All year,1.19
+6,1,Vegetarian,Daily,Small,Low,Never,Medium,Batch Cooking,South Indian,Somewhat aware,Monsoon,2.36
+3,4,Mixed,Weekly,Small,Medium,Sometimes,Medium,Fresh Daily,Indian,Somewhat aware,Monsoon,2.55
+3,2,Mixed,Weekly,Medium,Low,Often,Medium,Fresh Daily,Indian,Aware,Summer,1.72
+3,2,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Batch Cooking,North Indian,Not aware,Monsoon,2.53
+5,2,Mixed,Weekly,Medium,Medium,Sometimes,High,Batch Cooking,Italian,Somewhat aware,Winter,1.59
+1,1,Vegetarian,Weekly,Small,Medium,Sometimes,Medium,Fresh Daily,Chinese,Somewhat aware,All year,1.1
+1,2,Non-Vegetarian,Daily,Medium,Low,Sometimes,Low,Reheated,North Indian,Somewhat aware,Summer,1.67
+2,1,Vegetarian,Weekly,Medium,Low,Never,Low,Reheated,South Indian,Not aware,All year,2.11
+3,1,Vegetarian,Daily,Medium,Medium,Often,Medium,Batch Cooking,Chinese,Not aware,Monsoon,1.94
+5,2,Vegetarian,Bulk Buying,Small,Low,Sometimes,Medium,Batch Cooking,Fusion,Aware,Monsoon,2.77
+3,1,Non-Vegetarian,Weekly,Small,Low,Never,High,Batch Cooking,Chinese,Not aware,Winter,2.53
+3,2,Vegetarian,Bulk Buying,Medium,High,Sometimes,Medium,Reheated,Fusion,Not aware,Winter,2.07
+6,4,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Reheated,Chinese,Aware,Summer,3.39
+1,1,Vegetarian,Weekly,Large,Low,Often,Medium,Batch Cooking,North Indian,Somewhat aware,Winter,2.44
+4,1,Vegetarian,Daily,Medium,Medium,Sometimes,Low,Fresh Daily,Street Food,Not aware,All year,1.76
+4,1,Mixed,Bulk Buying,Small,Low,Often,Low,Fresh Daily,Chinese,Aware,Winter,2.73
+3,3,Mixed,Daily,Medium,High,Often,Low,Fresh Daily,Italian,Not aware,Summer,2.29
+5,2,Mixed,Daily,Small,Medium,Never,Medium,Fresh Daily,Chinese,Aware,Winter,1.9
+2,2,Vegetarian,Daily,Small,Low,Never,Low,Batch Cooking,Street Food,Not aware,Winter,2.61
+6,1,Vegetarian,Daily,Medium,Low,Sometimes,Medium,Reheated,South Indian,Aware,Monsoon,1.83
+2,2,Mixed,Daily,Medium,Low,Never,Low,Batch Cooking,Fusion,Not aware,Summer,1.48
+4,2,Vegetarian,Bulk Buying,Small,Medium,Never,Medium,Fresh Daily,Italian,Not aware,All year,3.29
+4,2,Non-Vegetarian,Daily,Large,Low,Sometimes,Medium,Fresh Daily,Fusion,Not aware,Summer,2.03
+6,3,Mixed,Daily,Medium,High,Often,High,Batch Cooking,Chinese,Somewhat aware,Winter,3.49
+3,4,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Fresh Daily,South Indian,Somewhat aware,Summer,2.88
+2,2,Vegetarian,Weekly,Medium,Low,Often,Medium,Fresh Daily,Fusion,Not aware,Summer,3.1
+1,4,Vegetarian,Weekly,Large,Medium,Sometimes,Medium,Reheated,Italian,Not aware,Monsoon,2.52
+3,3,Vegetarian,Bulk Buying,Large,Medium,Never,Medium,Fresh Daily,Italian,Somewhat aware,Winter,3.38
+5,2,Vegetarian,Bulk Buying,Small,Medium,Sometimes,Medium,Fresh Daily,Indian,Not aware,All year,3.26
+1,1,Non-Vegetarian,Daily,Medium,Medium,Sometimes,Medium,Fresh Daily,South Indian,Somewhat aware,Monsoon,0.88
+6,2,Mixed,Weekly,Small,Low,Never,Medium,Reheated,North Indian,Not aware,All year,3.36
+4,3,Vegetarian,Weekly,Medium,High,Sometimes,Medium,Batch Cooking,South Indian,Not aware,Summer,2.2
+1,1,Mixed,Weekly,Medium,High,Sometimes,Low,Reheated,Street Food,Somewhat aware,Monsoon,0.78
+2,4,Vegetarian,Weekly,Large,Medium,Sometimes,High,Batch Cooking,Chinese,Aware,Summer,2.21
+4,2,Non-Vegetarian,Daily,Medium,Medium,Often,High,Batch Cooking,Fusion,Not aware,Winter,4.03
+2,4,Vegetarian,Daily,Medium,High,Often,Medium,Fresh Daily,North Indian,Somewhat aware,Monsoon,2.52
+1,3,Vegetarian,Weekly,Small,Low,Sometimes,Medium,Fresh Daily,Street Food,Somewhat aware,All year,2.85
+4,2,Non-Vegetarian,Weekly,Small,High,Never,Medium,Fresh Daily,North Indian,Somewhat aware,Winter,1.37
+5,1,Vegetarian,Weekly,Medium,Low,Never,Medium,Batch Cooking,South Indian,Aware,Summer,1.17
+1,3,Vegetarian,Daily,Medium,Medium,Sometimes,High,Batch Cooking,Street Food,Aware,All year,2.69
+2,2,Mixed,Weekly,Medium,High,Often,Low,Fresh Daily,Chinese,Not aware,All year,2.22
+2,1,Non-Vegetarian,Weekly,Large,Low,Sometimes,Low,Reheated,Fusion,Not aware,Monsoon,1.76
+4,4,Vegetarian,Bulk Buying,Small,Medium,Often,Medium,Fresh Daily,South Indian,Not aware,All year,5.42
+5,2,Mixed,Weekly,Medium,Low,Sometimes,Low,Batch Cooking,South Indian,Not aware,All year,2.64
+5,1,Mixed,Daily,Small,Medium,Never,Low,Reheated,South Indian,Not aware,Winter,2.44
+6,2,Non-Vegetarian,Bulk Buying,Small,Medium,Often,Low,Fresh Daily,Chinese,Not aware,Monsoon,5.02
+5,2,Mixed,Weekly,Medium,High,Sometimes,Medium,Batch Cooking,Italian,Aware,Summer,1.14
+2,4,Mixed,Bulk Buying,Medium,Low,Never,Medium,Reheated,Chinese,Not aware,Monsoon,3.17
+1,3,Vegetarian,Bulk Buying,Small,High,Often,Low,Reheated,Street Food,Somewhat aware,Winter,4.0
+4,1,Non-Vegetarian,Weekly,Medium,High,Sometimes,High,Reheated,Fusion,Not aware,Monsoon,2.03
+6,1,Vegetarian,Bulk Buying,Small,Medium,Never,Low,Batch Cooking,Fusion,Aware,All year,2.96
+6,3,Mixed,Daily,Large,Medium,Never,Low,Fresh Daily,Street Food,Somewhat aware,Winter,3.31
+2,1,Mixed,Weekly,Medium,Medium,Sometimes,Medium,Batch Cooking,Chinese,Not aware,Monsoon,1.3
+2,2,Vegetarian,Weekly,Medium,High,Sometimes,Medium,Batch Cooking,Indian,Not aware,Monsoon,1.22
+1,1,Mixed,Weekly,Large,Medium,Often,Low,Reheated,Street Food,Somewhat aware,Winter,1.92
+1,1,Mixed,Weekly,Small,Medium,Often,High,Fresh Daily,Chinese,Aware,Summer,2.66
+4,4,Vegetarian,Bulk Buying,Small,Low,Never,Medium,Reheated,Street Food,Not aware,All year,4.65
+4,1,Vegetarian,Weekly,Large,Medium,Often,Medium,Reheated,Chinese,Not aware,Monsoon,2.69
+3,1,Vegetarian,Daily,Large,Medium,Often,Low,Batch Cooking,South Indian,Not aware,Winter,2.45
+2,4,Mixed,Bulk Buying,Medium,Low,Sometimes,Medium,Fresh Daily,South Indian,Not aware,All year,3.96
+5,1,Vegetarian,Weekly,Small,Medium,Never,Medium,Fresh Daily,Fusion,Not aware,Monsoon,2.0
+3,4,Mixed,Daily,Medium,High,Often,Low,Fresh Daily,Italian,Somewhat aware,All year,2.43
+5,1,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Fresh Daily,North Indian,Not aware,Monsoon,2.2
+6,1,Mixed,Weekly,Small,Low,Sometimes,Medium,Reheated,Fusion,Not aware,Summer,2.6
+2,1,Mixed,Weekly,Small,Medium,Never,Low,Batch Cooking,Street Food,Not aware,Winter,2.39
+2,3,Mixed,Daily,Small,Medium,Sometimes,Medium,Fresh Daily,North Indian,Not aware,Winter,2.13
+6,3,Vegetarian,Daily,Medium,High,Often,Low,Batch Cooking,Indian,Somewhat aware,Winter,3.41
+4,2,Vegetarian,Daily,Small,Medium,Often,High,Fresh Daily,Italian,Not aware,Winter,3.51
+2,1,Non-Vegetarian,Weekly,Small,High,Often,Medium,Batch Cooking,Italian,Not aware,Winter,2.54
+4,1,Mixed,Daily,Large,Medium,Sometimes,Low,Reheated,South Indian,Not aware,Monsoon,1.65
+4,3,Vegetarian,Weekly,Large,Low,Often,Low,Batch Cooking,Indian,Not aware,All year,3.56
+6,1,Non-Vegetarian,Daily,Large,High,Sometimes,Medium,Batch Cooking,North Indian,Not aware,Summer,2.13
+2,3,Mixed,Weekly,Small,Low,Sometimes,Medium,Reheated,Chinese,Not aware,Monsoon,2.77
+6,3,Vegetarian,Weekly,Medium,High,Often,Low,Batch Cooking,Italian,Somewhat aware,Monsoon,2.98
+6,4,Non-Vegetarian,Weekly,Medium,Low,Often,Low,Batch Cooking,Fusion,Aware,Winter,4.02
+2,2,Non-Vegetarian,Daily,Medium,Low,Often,Low,Fresh Daily,Indian,Not aware,Monsoon,3.74
+1,1,Mixed,Weekly,Medium,Medium,Sometimes,Low,Batch Cooking,South Indian,Not aware,Monsoon,1.12
+4,2,Mixed,Weekly,Small,Medium,Often,Low,Fresh Daily,North Indian,Not aware,All year,3.73
+1,4,Vegetarian,Weekly,Medium,Low,Often,Low,Batch Cooking,North Indian,Not aware,Summer,3.87
+2,3,Vegetarian,Weekly,Small,Medium,Often,Medium,Fresh Daily,Indian,Somewhat aware,Winter,2.75
+3,3,Mixed,Daily,Large,Low,Sometimes,Medium,Fresh Daily,South Indian,Somewhat aware,Winter,2.12
+6,2,Vegetarian,Daily,Medium,High,Never,High,Fresh Daily,Street Food,Not aware,Winter,3.01
+6,1,Vegetarian,Weekly,Large,High,Sometimes,Medium,Batch Cooking,Italian,Somewhat aware,Monsoon,1.02
+1,4,Mixed,Weekly,Medium,Low,Sometimes,High,Fresh Daily,Chinese,Not aware,Monsoon,2.93
+6,4,Vegetarian,Weekly,Large,High,Sometimes,Medium,Fresh Daily,Street Food,Not aware,Monsoon,3.82
+1,4,Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Low,Fresh Daily,Street Food,Not aware,Summer,3.7
+5,4,Non-Vegetarian,Weekly,Small,High,Sometimes,High,Fresh Daily,South Indian,Somewhat aware,Winter,2.78
+6,2,Non-Vegetarian,Daily,Small,Medium,Sometimes,Low,Batch Cooking,Chinese,Not aware,Monsoon,3.86
+6,2,Non-Vegetarian,Daily,Small,Low,Never,Medium,Fresh Daily,Italian,Aware,Summer,3.08
+2,1,Vegetarian,Daily,Medium,High,Often,Low,Fresh Daily,Chinese,Not aware,Monsoon,1.55
+6,4,Mixed,Daily,Medium,Low,Sometimes,High,Batch Cooking,Chinese,Somewhat aware,All year,3.68
+1,3,Non-Vegetarian,Daily,Large,Low,Never,Low,Fresh Daily,Fusion,Not aware,All year,2.55
+4,2,Non-Vegetarian,Daily,Small,Low,Often,High,Fresh Daily,Italian,Somewhat aware,Monsoon,3.82
+3,4,Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Medium,Reheated,North Indian,Not aware,Summer,3.96
+2,3,Mixed,Weekly,Medium,Medium,Often,Medium,Fresh Daily,Street Food,Not aware,Summer,4.24
+1,4,Mixed,Weekly,Small,Medium,Often,Low,Batch Cooking,Indian,Aware,Summer,3.97
+5,4,Non-Vegetarian,Daily,Medium,Medium,Never,Medium,Batch Cooking,Fusion,Somewhat aware,Summer,4.02
+3,1,Mixed,Bulk Buying,Small,Medium,Sometimes,Low,Reheated,Italian,Not aware,Winter,2.3
+4,2,Vegetarian,Weekly,Medium,Low,Never,Medium,Fresh Daily,Indian,Somewhat aware,All year,1.38
+3,3,Non-Vegetarian,Daily,Medium,Medium,Often,Low,Fresh Daily,Indian,Somewhat aware,All year,2.14
+3,4,Non-Vegetarian,Bulk Buying,Medium,Medium,Often,Low,Reheated,Italian,Somewhat aware,Winter,4.57
+6,1,Mixed,Weekly,Small,Medium,Sometimes,Low,Batch Cooking,North Indian,Somewhat aware,Summer,1.97
+1,2,Non-Vegetarian,Weekly,Small,Low,Sometimes,Low,Fresh Daily,Fusion,Not aware,Winter,3.31
+5,3,Mixed,Weekly,Large,High,Sometimes,Medium,Fresh Daily,Street Food,Somewhat aware,Summer,2.36
+5,4,Non-Vegetarian,Daily,Large,Medium,Never,Low,Batch Cooking,South Indian,Somewhat aware,Monsoon,3.25
+3,1,Vegetarian,Daily,Medium,High,Often,Medium,Batch Cooking,Chinese,Not aware,Summer,2.01
+2,3,Non-Vegetarian,Weekly,Medium,High,Sometimes,Low,Fresh Daily,Fusion,Somewhat aware,Winter,1.3
+1,2,Non-Vegetarian,Daily,Medium,Medium,Sometimes,Medium,Fresh Daily,Fusion,Not aware,Monsoon,1.78
+6,1,Mixed,Weekly,Small,Medium,Often,Low,Reheated,Street Food,Not aware,All year,3.1
+6,3,Mixed,Bulk Buying,Medium,Low,Sometimes,Low,Fresh Daily,Chinese,Not aware,All year,3.74
+2,2,Non-Vegetarian,Weekly,Small,Medium,Often,Low,Fresh Daily,Indian,Not aware,Monsoon,3.48
+1,3,Non-Vegetarian,Daily,Medium,High,Sometimes,Medium,Batch Cooking,Indian,Not aware,Winter,1.3
+1,2,Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Batch Cooking,South Indian,Somewhat aware,Winter,0.81
+1,4,Non-Vegetarian,Weekly,Medium,Low,Sometimes,Medium,Fresh Daily,South Indian,Aware,All year,1.9
+5,1,Mixed,Weekly,Medium,High,Sometimes,Low,Fresh Daily,North Indian,Somewhat aware,Summer,0.26
+6,4,Vegetarian,Weekly,Large,Medium,Sometimes,Low,Fresh Daily,Chinese,Aware,All year,2.47
+1,1,Mixed,Bulk Buying,Small,Medium,Sometimes,Low,Batch Cooking,Indian,Aware,Summer,1.45
+5,3,Vegetarian,Weekly,Medium,High,Sometimes,Low,Fresh Daily,Fusion,Not aware,Winter,2.49
+2,2,Mixed,Daily,Small,Medium,Often,Low,Batch Cooking,Street Food,Somewhat aware,Winter,3.39
+3,2,Non-Vegetarian,Daily,Medium,Medium,Sometimes,Low,Reheated,South Indian,Not aware,All year,3.19
+4,1,Non-Vegetarian,Weekly,Large,Medium,Often,Medium,Batch Cooking,South Indian,Somewhat aware,All year,2.02
+5,3,Mixed,Daily,Small,High,Sometimes,Low,Batch Cooking,Street Food,Not aware,Winter,2.9
+6,1,Vegetarian,Daily,Small,Low,Sometimes,Low,Fresh Daily,South Indian,Somewhat aware,Winter,1.67
+1,3,Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Low,Reheated,Italian,Aware,All year,1.86
+2,3,Mixed,Daily,Small,Medium,Sometimes,Medium,Fresh Daily,Chinese,Not aware,Monsoon,2.54
+2,4,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Batch Cooking,Fusion,Not aware,Winter,2.96
+2,3,Non-Vegetarian,Weekly,Medium,Low,Never,Medium,Batch Cooking,South Indian,Somewhat aware,Winter,2.33
+6,2,Vegetarian,Weekly,Small,Medium,Never,Low,Batch Cooking,Chinese,Not aware,Summer,3.12
+5,3,Non-Vegetarian,Bulk Buying,Large,High,Sometimes,Medium,Batch Cooking,Fusion,Not aware,Summer,3.22
+2,4,Non-Vegetarian,Daily,Large,Low,Sometimes,Medium,Fresh Daily,Indian,Aware,Monsoon,2.68
+6,2,Vegetarian,Weekly,Small,Low,Sometimes,Low,Fresh Daily,Chinese,Not aware,Monsoon,3.28
+3,1,Mixed,Bulk Buying,Small,Medium,Sometimes,Low,Reheated,Chinese,Not aware,All year,2.8
+4,4,Non-Vegetarian,Weekly,Small,Low,Never,Low,Fresh Daily,Chinese,Somewhat aware,Monsoon,4.16
+3,1,Vegetarian,Daily,Medium,Low,Sometimes,Medium,Batch Cooking,Italian,Aware,Winter,1.93
+1,3,Vegetarian,Daily,Medium,Medium,Never,Medium,Fresh Daily,Italian,Aware,All year,1.24
+6,1,Non-Vegetarian,Weekly,Large,Low,Sometimes,Medium,Fresh Daily,Fusion,Not aware,All year,2.32
+1,1,Mixed,Weekly,Medium,High,Often,Medium,Fresh Daily,South Indian,Somewhat aware,All year,1.56
+2,4,Vegetarian,Daily,Small,Medium,Often,Low,Batch Cooking,North Indian,Somewhat aware,Summer,3.43
+2,1,Mixed,Bulk Buying,Medium,Medium,Never,Medium,Batch Cooking,North Indian,Not aware,Summer,1.92
+2,3,Mixed,Daily,Medium,Low,Often,High,Fresh Daily,North Indian,Not aware,Winter,2.94
+1,3,Vegetarian,Bulk Buying,Medium,Low,Never,Low,Reheated,South Indian,Somewhat aware,Winter,2.19
+1,1,Mixed,Daily,Large,High,Sometimes,High,Fresh Daily,Street Food,Somewhat aware,All year,1.26
+5,1,Vegetarian,Daily,Small,Low,Sometimes,Medium,Batch Cooking,Indian,Aware,Summer,1.35
+6,4,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Fresh Daily,Indian,Not aware,Winter,4.0
+1,3,Mixed,Bulk Buying,Small,Low,Never,Low,Fresh Daily,Indian,Somewhat aware,Winter,2.44
+2,1,Non-Vegetarian,Daily,Medium,Low,Often,Low,Batch Cooking,Italian,Aware,Summer,2.76
+4,4,Non-Vegetarian,Weekly,Small,Medium,Often,High,Fresh Daily,Chinese,Somewhat aware,Summer,4.87
+6,2,Mixed,Daily,Small,Medium,Never,Low,Fresh Daily,Chinese,Aware,All year,1.91
+5,1,Vegetarian,Weekly,Small,High,Often,Medium,Fresh Daily,Chinese,Not aware,Summer,2.3
+5,4,Vegetarian,Daily,Medium,Low,Never,Medium,Fresh Daily,Indian,Not aware,All year,2.97
+4,1,Vegetarian,Daily,Large,High,Sometimes,Medium,Batch Cooking,South Indian,Not aware,Winter,1.76
+3,3,Mixed,Weekly,Small,Low,Sometimes,Low,Batch Cooking,North Indian,Somewhat aware,All year,2.2
+2,4,Non-Vegetarian,Daily,Large,Medium,Never,Low,Reheated,North Indian,Aware,Monsoon,2.35
+6,3,Non-Vegetarian,Weekly,Small,Medium,Sometimes,Low,Reheated,Italian,Not aware,Summer,4.43
+5,3,Vegetarian,Bulk Buying,Large,Medium,Often,High,Reheated,Fusion,Not aware,Monsoon,5.12
+1,2,Mixed,Weekly,Small,Medium,Often,Low,Reheated,South Indian,Not aware,Monsoon,3.65
+5,1,Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Fresh Daily,North Indian,Somewhat aware,Monsoon,1.26
+1,3,Mixed,Bulk Buying,Small,Low,Never,Medium,Batch Cooking,South Indian,Somewhat aware,Winter,2.77
+5,4,Non-Vegetarian,Weekly,Large,Low,Never,Low,Fresh Daily,Street Food,Not aware,Summer,4.54
+5,1,Mixed,Weekly,Small,High,Sometimes,Low,Fresh Daily,Italian,Somewhat aware,Monsoon,0.66
+1,4,Mixed,Daily,Small,Medium,Often,Medium,Fresh Daily,South Indian,Somewhat aware,Monsoon,2.9
+3,2,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,High,Fresh Daily,Chinese,Not aware,Winter,3.18
+1,3,Vegetarian,Weekly,Small,Low,Often,Medium,Batch Cooking,Fusion,Aware,All year,3.02
+4,1,Non-Vegetarian,Weekly,Large,High,Sometimes,Medium,Fresh Daily,South Indian,Somewhat aware,Summer,0.55
+6,3,Non-Vegetarian,Daily,Large,High,Often,Medium,Batch Cooking,Indian,Not aware,Monsoon,4.06
+1,1,Non-Vegetarian,Daily,Medium,Medium,Sometimes,Low,Batch Cooking,Street Food,Not aware,Winter,2.71
+3,2,Mixed,Weekly,Medium,Low,Sometimes,Medium,Fresh Daily,Chinese,Not aware,All year,2.11
+6,3,Vegetarian,Weekly,Large,Medium,Sometimes,Medium,Fresh Daily,North Indian,Not aware,Summer,3.24
+2,1,Mixed,Weekly,Small,Medium,Never,Medium,Batch Cooking,North Indian,Not aware,Summer,1.3
+1,2,Non-Vegetarian,Daily,Medium,Medium,Never,Medium,Batch Cooking,Fusion,Not aware,All year,2.34
+3,3,Mixed,Weekly,Medium,Medium,Often,Low,Reheated,Indian,Aware,Winter,2.78
+4,1,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Batch Cooking,Street Food,Not aware,Winter,2.59
+4,2,Mixed,Bulk Buying,Small,Low,Often,High,Batch Cooking,Chinese,Not aware,Monsoon,4.98
+2,2,Non-Vegetarian,Weekly,Medium,Low,Sometimes,Medium,Fresh Daily,Italian,Aware,Winter,1.86
+6,3,Non-Vegetarian,Weekly,Small,Low,Sometimes,Low,Fresh Daily,Fusion,Not aware,Winter,4.25
+4,4,Vegetarian,Daily,Medium,Low,Sometimes,Low,Reheated,Fusion,Not aware,Monsoon,3.29
+2,4,Mixed,Daily,Medium,Medium,Often,Low,Fresh Daily,Italian,Not aware,Summer,3.68
+6,1,Vegetarian,Bulk Buying,Small,Medium,Often,Low,Batch Cooking,Street Food,Not aware,Monsoon,5.73
+6,1,Vegetarian,Daily,Large,Medium,Never,Low,Fresh Daily,South Indian,Not aware,Winter,1.99
+3,1,Non-Vegetarian,Weekly,Small,Medium,Often,Medium,Fresh Daily,Street Food,Somewhat aware,All year,4.01
+1,3,Non-Vegetarian,Daily,Large,Low,Never,Low,Batch Cooking,South Indian,Not aware,Summer,2.44
+4,1,Non-Vegetarian,Daily,Large,Medium,Never,High,Reheated,South Indian,Not aware,Summer,2.48
+4,1,Mixed,Daily,Large,Medium,Sometimes,Medium,Fresh Daily,Fusion,Aware,All year,1.3
+1,4,Vegetarian,Weekly,Medium,Low,Often,Medium,Batch Cooking,South Indian,Not aware,Monsoon,3.22
+4,4,Vegetarian,Weekly,Small,Medium,Often,Low,Fresh Daily,Italian,Not aware,Winter,4.8
+6,4,Vegetarian,Daily,Small,High,Sometimes,Medium,Fresh Daily,Italian,Not aware,Winter,3.23
+1,2,Mixed,Daily,Medium,High,Sometimes,Low,Reheated,South Indian,Aware,Winter,0.49
+5,3,Non-Vegetarian,Weekly,Medium,Medium,Often,High,Batch Cooking,South Indian,Not aware,Winter,5.31
+1,3,Non-Vegetarian,Weekly,Medium,Medium,Never,Medium,Batch Cooking,South Indian,Not aware,Monsoon,3.02
+5,1,Non-Vegetarian,Weekly,Small,High,Often,Medium,Batch Cooking,North Indian,Not aware,Summer,2.75
+3,3,Non-Vegetarian,Weekly,Small,Medium,Sometimes,Medium,Batch Cooking,Street Food,Not aware,All year,4.42
+1,3,Mixed,Daily,Medium,Medium,Sometimes,Medium,Fresh Daily,South Indian,Somewhat aware,Summer,1.64
+6,2,Mixed,Daily,Medium,Medium,Never,Medium,Fresh Daily,Street Food,Somewhat aware,All year,2.73
+1,4,Vegetarian,Daily,Medium,Medium,Often,Medium,Fresh Daily,South Indian,Somewhat aware,Monsoon,2.38
+4,3,Vegetarian,Daily,Medium,Low,Often,Medium,Batch Cooking,Chinese,Not aware,Summer,4.06
+2,3,Mixed,Weekly,Small,Medium,Sometimes,Low,Batch Cooking,Street Food,Not aware,All year,3.64
+6,3,Vegetarian,Daily,Large,Medium,Often,Medium,Reheated,South Indian,Somewhat aware,Summer,3.75
+5,4,Non-Vegetarian,Daily,Medium,Medium,Sometimes,High,Fresh Daily,Street Food,Not aware,Winter,5.09
+5,3,Non-Vegetarian,Daily,Small,Low,Often,High,Batch Cooking,Indian,Somewhat aware,All year,4.06
+3,2,Vegetarian,Daily,Small,High,Often,Low,Reheated,Fusion,Not aware,Monsoon,2.65
+3,4,Vegetarian,Weekly,Medium,High,Often,Low,Batch Cooking,North Indian,Somewhat aware,Monsoon,2.71
+4,3,Mixed,Daily,Small,High,Often,Low,Fresh Daily,South Indian,Somewhat aware,Summer,3.01
+5,4,Vegetarian,Bulk Buying,Large,High,Sometimes,Low,Reheated,Italian,Not aware,Summer,3.52
+6,1,Vegetarian,Bulk Buying,Small,High,Sometimes,Medium,Reheated,South Indian,Not aware,All year,2.51
+1,2,Mixed,Weekly,Large,Medium,Never,Low,Reheated,Italian,Aware,Monsoon,1.04
+4,4,Mixed,Weekly,Medium,Low,Sometimes,Low,Batch Cooking,Italian,Not aware,All year,3.79
+1,3,Vegetarian,Bulk Buying,Medium,High,Sometimes,Medium,Fresh Daily,Fusion,Not aware,Winter,0.99
+2,4,Mixed,Bulk Buying,Small,Medium,Sometimes,Low,Batch Cooking,Fusion,Somewhat aware,Summer,3.78
+5,1,Mixed,Bulk Buying,Large,Medium,Often,Low,Batch Cooking,Fusion,Somewhat aware,Monsoon,2.73
+2,1,Mixed,Bulk Buying,Medium,Low,Never,Medium,Batch Cooking,North Indian,Somewhat aware,Winter,1.8
+5,4,Mixed,Weekly,Medium,Medium,Often,Medium,Batch Cooking,Italian,Somewhat aware,Winter,3.78
+3,2,Non-Vegetarian,Weekly,Medium,Low,Sometimes,Medium,Batch Cooking,Indian,Somewhat aware,All year,1.89
+2,3,Vegetarian,Weekly,Medium,Medium,Often,Medium,Fresh Daily,North Indian,Not aware,Summer,2.84
+3,2,Mixed,Weekly,Medium,Medium,Sometimes,Low,Batch Cooking,Chinese,Somewhat aware,All year,0.86
+4,2,Vegetarian,Weekly,Medium,Low,Sometimes,Low,Fresh Daily,South Indian,Not aware,Winter,2.17
+5,4,Mixed,Daily,Small,Medium,Often,High,Fresh Daily,Street Food,Not aware,Summer,6.01
+4,1,Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Fresh Daily,Italian,Somewhat aware,Winter,0.88
+6,4,Non-Vegetarian,Bulk Buying,Medium,Low,Never,Medium,Fresh Daily,Italian,Not aware,Summer,5.06
+6,4,Vegetarian,Weekly,Medium,Low,Often,Low,Fresh Daily,Chinese,Somewhat aware,All year,3.27
+5,3,Non-Vegetarian,Daily,Small,Low,Often,Low,Reheated,North Indian,Somewhat aware,Summer,3.96
+4,2,Non-Vegetarian,Daily,Medium,Low,Often,Medium,Fresh Daily,Chinese,Not aware,Monsoon,3.65
+2,1,Mixed,Weekly,Large,Medium,Sometimes,Low,Fresh Daily,Fusion,Aware,Winter,0.83
+3,3,Vegetarian,Daily,Small,Medium,Often,Medium,Reheated,Chinese,Not aware,Summer,3.88
+1,2,Vegetarian,Daily,Medium,Low,Often,High,Reheated,Fusion,Not aware,All year,2.6
+3,1,Mixed,Daily,Small,Low,Sometimes,Low,Fresh Daily,South Indian,Somewhat aware,Winter,1.48
+6,2,Non-Vegetarian,Daily,Large,Low,Sometimes,Low,Batch Cooking,South Indian,Not aware,Monsoon,3.43
+3,4,Non-Vegetarian,Weekly,Medium,Low,Sometimes,Medium,Batch Cooking,Indian,Somewhat aware,All year,2.57
+1,2,Mixed,Daily,Medium,Medium,Sometimes,Low,Batch Cooking,Indian,Not aware,Summer,1.78
+4,1,Non-Vegetarian,Weekly,Small,Medium,Often,High,Fresh Daily,South Indian,Not aware,Monsoon,3.47
+6,3,Vegetarian,Weekly,Medium,High,Sometimes,Medium,Fresh Daily,South Indian,Not aware,Summer,2.7
+6,1,Non-Vegetarian,Weekly,Small,Medium,Often,High,Batch Cooking,Indian,Somewhat aware,Summer,4.33
+2,4,Vegetarian,Bulk Buying,Medium,Low,Sometimes,Low,Fresh Daily,Street Food,Not aware,Winter,4.73
+3,4,Non-Vegetarian,Weekly,Large,Medium,Often,Low,Batch Cooking,North Indian,Not aware,All year,4.4
+4,4,Non-Vegetarian,Weekly,Large,High,Often,Low,Reheated,Fusion,Somewhat aware,All year,3.75
+2,4,Mixed,Daily,Large,Low,Sometimes,Medium,Fresh Daily,Chinese,Aware,All year,2.21
+2,1,Non-Vegetarian,Daily,Small,Medium,Sometimes,Low,Batch Cooking,Street Food,Aware,Monsoon,2.34
+2,1,Non-Vegetarian,Weekly,Small,Low,Sometimes,Medium,Batch Cooking,Indian,Not aware,Monsoon,2.28
+6,2,Non-Vegetarian,Daily,Medium,High,Often,Medium,Fresh Daily,Indian,Not aware,Monsoon,3.98
+5,2,Non-Vegetarian,Bulk Buying,Medium,Low,Sometimes,Low,Reheated,Indian,Not aware,All year,4.01
+6,4,Vegetarian,Weekly,Medium,Medium,Never,High,Fresh Daily,Fusion,Not aware,All year,3.06
+5,3,Non-Vegetarian,Daily,Large,Medium,Sometimes,Low,Batch Cooking,South Indian,Not aware,All year,4.78
+6,3,Vegetarian,Bulk Buying,Medium,Low,Sometimes,Medium,Fresh Daily,South Indian,Somewhat aware,Winter,2.72
+1,4,Vegetarian,Bulk Buying,Medium,High,Often,Low,Fresh Daily,Street Food,Not aware,Winter,4.27
+6,3,Non-Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Low,Reheated,Chinese,Not aware,All year,4.27
+1,2,Vegetarian,Weekly,Medium,Low,Sometimes,Low,Fresh Daily,Street Food,Not aware,Winter,2.43
+3,2,Vegetarian,Weekly,Small,Medium,Sometimes,High,Fresh Daily,South Indian,Not aware,All year,1.91
+4,3,Non-Vegetarian,Daily,Small,Medium,Sometimes,Medium,Batch Cooking,Fusion,Aware,Summer,1.91
+3,1,Mixed,Weekly,Medium,Low,Sometimes,Low,Batch Cooking,Fusion,Not aware,Summer,1.25
+1,3,Vegetarian,Weekly,Medium,Medium,Sometimes,High,Batch Cooking,South Indian,Not aware,Winter,1.98
+2,3,Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Medium,Reheated,South Indian,Somewhat aware,Winter,3.28
+5,3,Non-Vegetarian,Weekly,Small,Medium,Often,Medium,Fresh Daily,Indian,Somewhat aware,Winter,4.08
+2,3,Mixed,Weekly,Large,Low,Never,Medium,Fresh Daily,South Indian,Not aware,Summer,2.04
+2,4,Mixed,Weekly,Large,Medium,Sometimes,Medium,Fresh Daily,Italian,Somewhat aware,All year,2.11
+6,4,Vegetarian,Daily,Large,Low,Often,Low,Batch Cooking,Italian,Not aware,Summer,4.96
+1,3,Vegetarian,Weekly,Small,Medium,Sometimes,Low,Batch Cooking,Indian,Somewhat aware,All year,0.96
+6,2,Mixed,Daily,Medium,Medium,Often,Medium,Reheated,North Indian,Not aware,Summer,3.15
+6,1,Non-Vegetarian,Weekly,Medium,High,Sometimes,Medium,Fresh Daily,Italian,Somewhat aware,All year,1.49
+4,4,Non-Vegetarian,Bulk Buying,Large,Medium,Sometimes,High,Fresh Daily,Indian,Not aware,Summer,4.82
+1,4,Non-Vegetarian,Bulk Buying,Medium,Low,Sometimes,Low,Reheated,North Indian,Not aware,All year,3.72
+1,3,Mixed,Bulk Buying,Small,High,Never,Low,Batch Cooking,North Indian,Not aware,Winter,2.49
+2,4,Non-Vegetarian,Daily,Medium,Low,Sometimes,Medium,Fresh Daily,Italian,Not aware,Monsoon,3.27
+4,4,Non-Vegetarian,Bulk Buying,Medium,Medium,Often,Low,Reheated,Indian,Somewhat aware,Monsoon,5.24
+1,4,Mixed,Bulk Buying,Small,Medium,Often,Medium,Fresh Daily,North Indian,Not aware,Monsoon,4.34
+3,3,Non-Vegetarian,Daily,Medium,High,Sometimes,Medium,Fresh Daily,Fusion,Somewhat aware,All year,1.81
+1,1,Mixed,Weekly,Medium,Medium,Often,Medium,Batch Cooking,Street Food,Not aware,All year,3.73
+4,1,Vegetarian,Weekly,Small,High,Sometimes,Medium,Fresh Daily,Indian,Not aware,All year,1.21
+1,1,Mixed,Weekly,Medium,Medium,Sometimes,Low,Fresh Daily,South Indian,Aware,Winter,0.59
+5,2,Vegetarian,Weekly,Small,Medium,Often,Medium,Batch Cooking,Street Food,Somewhat aware,Monsoon,3.82
+1,3,Mixed,Weekly,Medium,Low,Sometimes,Low,Reheated,Indian,Not aware,Winter,1.87
+2,2,Vegetarian,Weekly,Small,High,Sometimes,Medium,Fresh Daily,South Indian,Somewhat aware,All year,0.75
+2,1,Mixed,Daily,Large,Medium,Sometimes,Low,Fresh Daily,South Indian,Not aware,Monsoon,1.56
+5,1,Non-Vegetarian,Bulk Buying,Medium,Medium,Never,High,Fresh Daily,South Indian,Not aware,Monsoon,3.13
+1,4,Mixed,Daily,Medium,Medium,Never,Medium,Batch Cooking,North Indian,Not aware,Monsoon,2.17
+3,4,Non-Vegetarian,Daily,Small,Low,Sometimes,Low,Batch Cooking,Fusion,Aware,All year,3.2
+4,2,Vegetarian,Daily,Small,Medium,Sometimes,High,Batch Cooking,Street Food,Not aware,All year,3.14
+4,4,Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Fresh Daily,Street Food,Not aware,Summer,3.97
+5,3,Vegetarian,Weekly,Small,Medium,Sometimes,Low,Reheated,North Indian,Not aware,Winter,3.25
+5,4,Mixed,Bulk Buying,Medium,Medium,Often,High,Reheated,Italian,Not aware,All year,5.09
+3,4,Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Batch Cooking,North Indian,Somewhat aware,Summer,2.14
+5,3,Mixed,Weekly,Medium,Medium,Sometimes,Medium,Batch Cooking,North Indian,Not aware,All year,3.4
+2,2,Non-Vegetarian,Daily,Medium,High,Often,Medium,Batch Cooking,Fusion,Somewhat aware,Monsoon,2.69
+6,3,Vegetarian,Weekly,Medium,Low,Sometimes,Medium,Batch Cooking,Indian,Aware,Monsoon,2.15
+4,2,Mixed,Bulk Buying,Small,Medium,Never,High,Fresh Daily,South Indian,Somewhat aware,Winter,3.1
+5,2,Vegetarian,Daily,Medium,Medium,Sometimes,Medium,Reheated,Fusion,Not aware,Summer,2.51
+6,3,Non-Vegetarian,Weekly,Small,High,Never,Medium,Batch Cooking,Fusion,Not aware,Monsoon,3.56
+5,3,Vegetarian,Daily,Medium,Medium,Sometimes,Low,Fresh Daily,Fusion,Aware,All year,2.76
+6,3,Non-Vegetarian,Daily,Medium,High,Sometimes,Low,Batch Cooking,Chinese,Not aware,All year,3.68
+4,2,Vegetarian,Daily,Medium,Low,Never,Medium,Batch Cooking,South Indian,Somewhat aware,Summer,1.09
+1,2,Mixed,Bulk Buying,Medium,Low,Often,Low,Batch Cooking,Indian,Not aware,Winter,4.33
+3,1,Non-Vegetarian,Bulk Buying,Small,Low,Sometimes,High,Fresh Daily,Chinese,Aware,Winter,2.7
+2,3,Vegetarian,Weekly,Small,High,Sometimes,Medium,Batch Cooking,Fusion,Somewhat aware,Winter,1.43
+6,3,Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Fresh Daily,South Indian,Somewhat aware,Summer,2.37
+2,4,Mixed,Bulk Buying,Medium,Medium,Never,Medium,Fresh Daily,North Indian,Aware,All year,1.93
+2,3,Vegetarian,Daily,Medium,Medium,Often,High,Fresh Daily,North Indian,Not aware,Monsoon,3.14
+2,2,Vegetarian,Weekly,Small,Low,Sometimes,Low,Batch Cooking,Indian,Aware,All year,2.27
+4,1,Non-Vegetarian,Daily,Medium,Low,Sometimes,Low,Reheated,Indian,Not aware,Summer,2.89
+4,1,Non-Vegetarian,Daily,Small,High,Sometimes,Low,Fresh Daily,South Indian,Aware,All year,1.05
+6,2,Non-Vegetarian,Daily,Medium,Medium,Never,High,Batch Cooking,South Indian,Somewhat aware,Summer,4.04
+3,2,Vegetarian,Weekly,Medium,Medium,Never,High,Fresh Daily,Fusion,Somewhat aware,Summer,0.86
+2,2,Vegetarian,Daily,Large,Medium,Sometimes,High,Batch Cooking,Indian,Somewhat aware,Summer,1.69
+1,2,Non-Vegetarian,Weekly,Large,Medium,Sometimes,Low,Reheated,Italian,Somewhat aware,All year,1.68
+1,4,Mixed,Bulk Buying,Medium,Low,Often,Low,Fresh Daily,Fusion,Somewhat aware,Summer,3.58
+3,1,Non-Vegetarian,Daily,Medium,High,Never,Medium,Batch Cooking,Indian,Somewhat aware,Monsoon,0.32
+6,2,Non-Vegetarian,Weekly,Large,High,Sometimes,Medium,Batch Cooking,Chinese,Not aware,All year,2.94
+4,1,Mixed,Weekly,Small,Medium,Never,Medium,Batch Cooking,Street Food,Somewhat aware,All year,1.72
+6,2,Vegetarian,Weekly,Medium,Low,Sometimes,Medium,Fresh Daily,Indian,Not aware,Winter,2.33
+1,3,Mixed,Weekly,Medium,High,Often,High,Batch Cooking,Italian,Not aware,Summer,2.75
+1,1,Non-Vegetarian,Daily,Medium,Medium,Never,Low,Batch Cooking,Italian,Somewhat aware,Winter,1.02
+6,2,Mixed,Bulk Buying,Medium,Low,Often,Low,Batch Cooking,Chinese,Not aware,Monsoon,5.09
+1,1,Vegetarian,Daily,Small,Low,Never,Medium,Batch Cooking,Italian,Not aware,All year,1.56
+1,4,Mixed,Daily,Medium,High,Sometimes,Low,Batch Cooking,Italian,Not aware,Monsoon,2.69
+3,3,Mixed,Weekly,Large,Medium,Sometimes,Medium,Reheated,Indian,Not aware,Summer,2.48
+6,1,Mixed,Daily,Medium,Medium,Often,Medium,Fresh Daily,Fusion,Somewhat aware,Summer,1.5
+5,1,Non-Vegetarian,Weekly,Medium,Medium,Never,Medium,Batch Cooking,Fusion,Not aware,Winter,2.44
+1,1,Mixed,Bulk Buying,Medium,Medium,Often,Medium,Batch Cooking,Chinese,Somewhat aware,Winter,2.29
+6,2,Vegetarian,Daily,Medium,Medium,Sometimes,Low,Reheated,North Indian,Somewhat aware,Monsoon,2.5
+6,4,Non-Vegetarian,Weekly,Medium,Low,Sometimes,Low,Fresh Daily,Fusion,Not aware,Winter,4.04
+5,3,Non-Vegetarian,Daily,Large,Medium,Often,Medium,Fresh Daily,Chinese,Somewhat aware,Summer,3.71
+6,4,Non-Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Medium,Fresh Daily,Fusion,Not aware,Monsoon,4.63
+2,2,Vegetarian,Weekly,Large,High,Often,High,Batch Cooking,Indian,Not aware,Summer,2.45
+6,2,Non-Vegetarian,Weekly,Small,High,Often,Low,Batch Cooking,North Indian,Not aware,Summer,3.11
+2,2,Mixed,Daily,Small,Low,Sometimes,High,Fresh Daily,Chinese,Not aware,Summer,1.87
+5,1,Non-Vegetarian,Weekly,Small,Medium,Sometimes,Medium,Batch Cooking,Italian,Not aware,Summer,2.39
+4,4,Non-Vegetarian,Daily,Medium,Medium,Never,Low,Batch Cooking,North Indian,Not aware,All year,3.4
+5,1,Mixed,Bulk Buying,Medium,Low,Sometimes,Medium,Batch Cooking,North Indian,Not aware,Summer,2.24
+4,2,Vegetarian,Daily,Large,Low,Sometimes,High,Fresh Daily,Chinese,Somewhat aware,Winter,1.35
+4,3,Mixed,Weekly,Large,Medium,Often,High,Fresh Daily,North Indian,Somewhat aware,Winter,3.09
+4,1,Non-Vegetarian,Weekly,Large,Medium,Sometimes,Low,Batch Cooking,Fusion,Somewhat aware,All year,2.08
+5,2,Mixed,Weekly,Medium,Low,Sometimes,High,Fresh Daily,Indian,Not aware,Monsoon,3.22
+5,2,Mixed,Weekly,Medium,Medium,Often,Medium,Fresh Daily,South Indian,Not aware,Summer,2.74
+1,2,Mixed,Weekly,Medium,Medium,Often,Medium,Batch Cooking,Street Food,Aware,Winter,2.41
+5,1,Mixed,Daily,Medium,Medium,Sometimes,Low,Batch Cooking,Street Food,Not aware,All year,2.12
+4,1,Mixed,Daily,Medium,Medium,Never,Medium,Batch Cooking,Fusion,Somewhat aware,All year,1.16
+2,1,Mixed,Weekly,Small,High,Sometimes,Low,Reheated,Fusion,Not aware,Monsoon,1.44
+4,2,Mixed,Bulk Buying,Large,Low,Often,Low,Batch Cooking,Chinese,Not aware,Winter,4.12
+6,1,Non-Vegetarian,Daily,Small,High,Sometimes,Medium,Reheated,Indian,Somewhat aware,Winter,2.27
+6,4,Non-Vegetarian,Weekly,Medium,High,Sometimes,Medium,Reheated,Fusion,Somewhat aware,Summer,3.16
+6,1,Vegetarian,Weekly,Small,High,Never,Medium,Fresh Daily,Indian,Aware,Winter,0.97
+3,3,Non-Vegetarian,Daily,Medium,High,Often,Low,Batch Cooking,South Indian,Somewhat aware,All year,3.65
+5,3,Vegetarian,Weekly,Large,Low,Sometimes,Low,Fresh Daily,Chinese,Not aware,Winter,2.28
+3,2,Non-Vegetarian,Weekly,Large,High,Sometimes,Low,Fresh Daily,North Indian,Aware,All year,1.63
+5,4,Vegetarian,Daily,Medium,Low,Often,Low,Fresh Daily,Italian,Not aware,All year,4.35
+4,1,Vegetarian,Bulk Buying,Small,Medium,Sometimes,Low,Fresh Daily,Indian,Not aware,Summer,2.69
+2,1,Vegetarian,Weekly,Large,Medium,Often,Medium,Fresh Daily,Fusion,Not aware,Summer,1.72
+2,2,Non-Vegetarian,Weekly,Small,High,Never,High,Reheated,Chinese,Somewhat aware,Monsoon,1.39
+1,1,Mixed,Weekly,Medium,Low,Never,Low,Batch Cooking,South Indian,Somewhat aware,Winter,0.61
+1,2,Mixed,Weekly,Small,Medium,Sometimes,Low,Fresh Daily,Fusion,Not aware,Summer,1.41
+3,2,Mixed,Daily,Small,Medium,Sometimes,Low,Fresh Daily,Indian,Aware,Winter,1.52
+3,4,Non-Vegetarian,Weekly,Large,High,Sometimes,Medium,Fresh Daily,Italian,Not aware,Winter,2.75
+1,2,Vegetarian,Bulk Buying,Small,High,Sometimes,Medium,Reheated,Street Food,Not aware,Monsoon,2.72
+3,4,Non-Vegetarian,Daily,Medium,Medium,Sometimes,Low,Fresh Daily,Chinese,Not aware,Winter,3.58
+4,4,Non-Vegetarian,Weekly,Small,High,Often,Low,Batch Cooking,South Indian,Somewhat aware,Summer,3.78
+2,4,Non-Vegetarian,Weekly,Large,Medium,Often,Medium,Reheated,Street Food,Not aware,Monsoon,4.92
+3,1,Mixed,Weekly,Medium,Medium,Often,Medium,Batch Cooking,South Indian,Not aware,Summer,2.49
+3,4,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Fresh Daily,Italian,Aware,All year,2.54
+4,3,Non-Vegetarian,Daily,Medium,Medium,Sometimes,Low,Fresh Daily,Italian,Not aware,Winter,2.86
+3,4,Vegetarian,Weekly,Medium,Low,Sometimes,Medium,Batch Cooking,Italian,Not aware,Monsoon,3.15
+5,2,Vegetarian,Weekly,Medium,Medium,Never,High,Batch Cooking,South Indian,Not aware,Winter,3.0
+2,4,Non-Vegetarian,Daily,Medium,Medium,Often,Medium,Batch Cooking,North Indian,Not aware,Monsoon,4.84
+3,3,Mixed,Daily,Small,Low,Never,Medium,Fresh Daily,Fusion,Somewhat aware,Winter,2.31
+3,1,Vegetarian,Daily,Small,High,Sometimes,Low,Fresh Daily,South Indian,Somewhat aware,Summer,0.27
+2,2,Mixed,Weekly,Medium,High,Sometimes,Low,Batch Cooking,Italian,Somewhat aware,All year,0.1
+5,1,Non-Vegetarian,Bulk Buying,Small,Medium,Sometimes,Medium,Batch Cooking,Italian,Somewhat aware,Monsoon,3.34
+2,4,Non-Vegetarian,Weekly,Large,Medium,Never,High,Reheated,Indian,Somewhat aware,All year,2.92
+2,2,Vegetarian,Daily,Medium,Medium,Often,Low,Reheated,South Indian,Not aware,Monsoon,3.4
+5,1,Mixed,Weekly,Medium,Medium,Sometimes,Medium,Batch Cooking,South Indian,Not aware,Winter,1.95
+6,3,Vegetarian,Bulk Buying,Large,Medium,Never,Medium,Fresh Daily,Chinese,Not aware,Summer,3.2
+5,2,Mixed,Weekly,Large,Medium,Never,High,Batch Cooking,Chinese,Not aware,Monsoon,2.78
+6,1,Non-Vegetarian,Weekly,Medium,Medium,Never,Medium,Fresh Daily,Chinese,Not aware,Summer,2.33
+6,4,Vegetarian,Weekly,Medium,Low,Often,High,Batch Cooking,Italian,Not aware,All year,5.36
+3,4,Vegetarian,Weekly,Large,Medium,Sometimes,High,Fresh Daily,Indian,Not aware,Summer,3.68
+5,3,Vegetarian,Weekly,Medium,Medium,Often,Medium,Batch Cooking,Street Food,Not aware,Winter,4.53
+2,3,Mixed,Daily,Large,Low,Sometimes,Medium,Fresh Daily,Fusion,Not aware,Summer,2.17
+3,2,Vegetarian,Daily,Large,Medium,Sometimes,Low,Batch Cooking,Indian,Not aware,All year,2.24
+4,3,Vegetarian,Weekly,Medium,High,Often,Low,Fresh Daily,Street Food,Somewhat aware,All year,2.89
+6,3,Mixed,Daily,Large,Medium,Often,Medium,Fresh Daily,Street Food,Not aware,Monsoon,5.04
+6,1,Mixed,Weekly,Medium,Medium,Often,Low,Fresh Daily,Chinese,Somewhat aware,Monsoon,2.52
+3,1,Non-Vegetarian,Daily,Small,Low,Sometimes,Medium,Reheated,Indian,Aware,Summer,1.55
+4,2,Non-Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Low,Batch Cooking,Chinese,Not aware,Winter,3.09
+2,2,Mixed,Weekly,Small,Medium,Often,Low,Batch Cooking,South Indian,Somewhat aware,Summer,3.37
+5,1,Mixed,Bulk Buying,Medium,Low,Never,Low,Fresh Daily,South Indian,Somewhat aware,Summer,2.29
+4,1,Mixed,Daily,Medium,High,Often,Medium,Batch Cooking,Street Food,Not aware,Monsoon,2.68
+4,4,Vegetarian,Daily,Medium,Low,Often,High,Reheated,Fusion,Not aware,Winter,4.82
+5,2,Mixed,Weekly,Medium,Medium,Sometimes,Low,Fresh Daily,South Indian,Not aware,All year,1.72
+4,3,Non-Vegetarian,Weekly,Medium,High,Never,Medium,Batch Cooking,Chinese,Not aware,Winter,2.42
+1,3,Non-Vegetarian,Daily,Small,Low,Often,Medium,Fresh Daily,Street Food,Somewhat aware,Summer,3.66
+2,3,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Reheated,North Indian,Aware,Winter,2.15
+2,3,Vegetarian,Daily,Medium,Low,Never,Low,Fresh Daily,Fusion,Aware,Summer,1.76
+5,2,Mixed,Daily,Large,Medium,Sometimes,Medium,Batch Cooking,North Indian,Somewhat aware,All year,1.51
+1,4,Non-Vegetarian,Weekly,Medium,Medium,Often,High,Batch Cooking,Chinese,Somewhat aware,All year,4.27
+2,2,Non-Vegetarian,Daily,Medium,Medium,Sometimes,High,Batch Cooking,Street Food,Not aware,Summer,3.93
+4,4,Non-Vegetarian,Weekly,Small,Low,Sometimes,Medium,Batch Cooking,Italian,Not aware,Monsoon,3.36
+5,2,Vegetarian,Daily,Medium,Low,Sometimes,High,Batch Cooking,Italian,Not aware,Monsoon,2.88
+4,1,Non-Vegetarian,Weekly,Medium,High,Sometimes,Low,Batch Cooking,Street Food,Not aware,Summer,2.28
+6,4,Vegetarian,Bulk Buying,Medium,Low,Sometimes,Medium,Reheated,Indian,Not aware,Summer,4.15
+6,1,Vegetarian,Bulk Buying,Small,Low,Sometimes,Low,Reheated,Street Food,Not aware,Winter,3.83
+1,4,Non-Vegetarian,Bulk Buying,Medium,High,Never,Low,Fresh Daily,Street Food,Aware,Monsoon,3.0
+6,1,Mixed,Weekly,Small,High,Never,Medium,Batch Cooking,Indian,Not aware,All year,2.42
+4,1,Vegetarian,Weekly,Medium,Medium,Often,High,Reheated,Chinese,Aware,Winter,2.92
+4,3,Non-Vegetarian,Weekly,Medium,High,Often,Medium,Batch Cooking,South Indian,Aware,All year,3.19
+1,4,Mixed,Daily,Medium,High,Often,Medium,Batch Cooking,Italian,Not aware,Summer,3.42
+4,2,Non-Vegetarian,Weekly,Medium,High,Sometimes,Medium,Fresh Daily,Italian,Not aware,Monsoon,2.37
+5,1,Non-Vegetarian,Bulk Buying,Large,Low,Often,Medium,Batch Cooking,Street Food,Somewhat aware,Monsoon,4.95
+4,1,Mixed,Weekly,Large,Medium,Sometimes,Low,Reheated,Indian,Not aware,Winter,1.54
+1,4,Mixed,Daily,Small,Medium,Sometimes,Medium,Reheated,Fusion,Somewhat aware,All year,2.34
+4,3,Non-Vegetarian,Weekly,Medium,Medium,Never,Medium,Fresh Daily,Chinese,Aware,Monsoon,2.19
+6,1,Non-Vegetarian,Daily,Medium,Medium,Sometimes,Medium,Batch Cooking,North Indian,Not aware,Monsoon,2.84
+5,2,Non-Vegetarian,Weekly,Medium,Low,Often,High,Reheated,Italian,Aware,Winter,4.4
+1,2,Mixed,Bulk Buying,Small,High,Sometimes,Medium,Fresh Daily,Italian,Not aware,Summer,1.66
+6,1,Non-Vegetarian,Daily,Small,Medium,Sometimes,High,Fresh Daily,Italian,Somewhat aware,Monsoon,2.66
+6,4,Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Batch Cooking,South Indian,Somewhat aware,Summer,3.37
+2,3,Non-Vegetarian,Weekly,Small,Low,Never,Medium,Reheated,Fusion,Somewhat aware,Summer,2.1
+5,1,Non-Vegetarian,Bulk Buying,Small,Medium,Often,Low,Fresh Daily,Italian,Somewhat aware,Summer,3.74
+3,3,Mixed,Weekly,Medium,Low,Often,Low,Batch Cooking,South Indian,Not aware,Summer,3.87
+4,2,Vegetarian,Weekly,Medium,High,Often,Medium,Batch Cooking,Indian,Somewhat aware,Winter,2.27
+3,1,Non-Vegetarian,Bulk Buying,Small,High,Often,Medium,Reheated,Fusion,Not aware,Winter,2.46
+5,2,Vegetarian,Weekly,Medium,High,Sometimes,Low,Batch Cooking,Italian,Somewhat aware,All year,1.29
+6,1,Vegetarian,Weekly,Small,Low,Never,High,Batch Cooking,Street Food,Not aware,Summer,4.29
+5,1,Vegetarian,Daily,Medium,Medium,Sometimes,Medium,Fresh Daily,Chinese,Aware,Summer,1.14
+6,4,Mixed,Weekly,Small,Medium,Sometimes,Low,Fresh Daily,Fusion,Somewhat aware,All year,4.04
+6,3,Mixed,Bulk Buying,Medium,Low,Never,High,Fresh Daily,South Indian,Not aware,Summer,4.43
+1,1,Non-Vegetarian,Daily,Large,Low,Never,Medium,Batch Cooking,Fusion,Not aware,Monsoon,1.03
+2,4,Non-Vegetarian,Weekly,Medium,High,Sometimes,Medium,Batch Cooking,Street Food,Not aware,Summer,4.12
+5,3,Non-Vegetarian,Weekly,Small,High,Never,High,Batch Cooking,Chinese,Not aware,Summer,2.52
+4,4,Mixed,Daily,Small,Medium,Often,Low,Reheated,Italian,Not aware,Summer,4.38
+1,3,Mixed,Daily,Medium,Low,Sometimes,Medium,Batch Cooking,Indian,Somewhat aware,All year,2.13
+1,2,Non-Vegetarian,Daily,Medium,Low,Sometimes,High,Batch Cooking,Fusion,Not aware,Winter,2.51
+4,3,Mixed,Weekly,Medium,Low,Never,Medium,Batch Cooking,North Indian,Not aware,Monsoon,2.75
+4,3,Vegetarian,Daily,Medium,Low,Sometimes,Medium,Reheated,North Indian,Not aware,Monsoon,2.61
+2,3,Vegetarian,Weekly,Small,Medium,Sometimes,Low,Batch Cooking,Italian,Somewhat aware,All year,2.11
+2,1,Non-Vegetarian,Daily,Small,Medium,Sometimes,Medium,Fresh Daily,Fusion,Not aware,Monsoon,1.77
+1,2,Mixed,Bulk Buying,Medium,High,Never,Medium,Reheated,South Indian,Somewhat aware,All year,0.78
+4,1,Non-Vegetarian,Daily,Medium,High,Often,High,Reheated,North Indian,Aware,All year,1.97
+1,2,Non-Vegetarian,Weekly,Large,Medium,Often,Low,Fresh Daily,South Indian,Not aware,All year,3.22
+4,1,Vegetarian,Daily,Medium,Low,Never,Medium,Fresh Daily,Indian,Not aware,All year,1.08
+3,1,Vegetarian,Daily,Medium,Medium,Sometimes,Medium,Fresh Daily,South Indian,Aware,All year,1.11
+3,4,Non-Vegetarian,Bulk Buying,Medium,Medium,Often,Low,Reheated,Fusion,Not aware,Winter,5.38
+5,1,Non-Vegetarian,Bulk Buying,Small,Low,Sometimes,Medium,Fresh Daily,Indian,Somewhat aware,Winter,2.46
+4,4,Non-Vegetarian,Daily,Small,Medium,Never,Medium,Fresh Daily,Chinese,Aware,Monsoon,2.95
+5,1,Non-Vegetarian,Bulk Buying,Medium,Medium,Often,High,Reheated,Street Food,Somewhat aware,Monsoon,5.27
+5,4,Vegetarian,Bulk Buying,Medium,High,Sometimes,High,Fresh Daily,Italian,Not aware,Monsoon,4.09
+6,2,Non-Vegetarian,Weekly,Small,High,Sometimes,High,Fresh Daily,Indian,Not aware,Monsoon,2.53
+5,3,Mixed,Weekly,Large,High,Sometimes,High,Batch Cooking,Indian,Not aware,Winter,2.61
+4,2,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Fresh Daily,Chinese,Aware,All year,2.93
+3,2,Non-Vegetarian,Weekly,Medium,Medium,Often,Medium,Batch Cooking,South Indian,Somewhat aware,Summer,3.01
+2,2,Non-Vegetarian,Bulk Buying,Medium,Medium,Never,High,Fresh Daily,Indian,Not aware,Winter,3.54
+4,3,Mixed,Bulk Buying,Small,Medium,Often,Medium,Batch Cooking,Street Food,Somewhat aware,Summer,5.01
+1,2,Mixed,Bulk Buying,Medium,Medium,Sometimes,Medium,Reheated,South Indian,Somewhat aware,All year,2.35
+6,3,Vegetarian,Weekly,Large,Low,Never,Medium,Fresh Daily,Chinese,Not aware,Monsoon,3.21
+6,4,Mixed,Weekly,Large,Medium,Never,Low,Reheated,Chinese,Aware,Winter,2.65
+1,2,Vegetarian,Daily,Medium,Low,Often,High,Fresh Daily,South Indian,Not aware,Summer,2.27
+5,2,Mixed,Daily,Large,Low,Often,Low,Batch Cooking,Indian,Not aware,All year,3.73
+1,1,Mixed,Daily,Medium,Medium,Sometimes,Low,Fresh Daily,Street Food,Somewhat aware,Monsoon,1.01
+5,2,Non-Vegetarian,Daily,Large,Medium,Never,High,Batch Cooking,Italian,Not aware,All year,2.66
+1,1,Non-Vegetarian,Weekly,Medium,Medium,Never,High,Fresh Daily,Italian,Somewhat aware,Summer,1.74
+3,1,Mixed,Weekly,Large,High,Often,Low,Fresh Daily,North Indian,Somewhat aware,All year,1.14
+4,4,Vegetarian,Daily,Small,Low,Sometimes,Low,Batch Cooking,South Indian,Not aware,Winter,3.73
+5,1,Vegetarian,Daily,Medium,Medium,Sometimes,High,Batch Cooking,Fusion,Aware,Summer,1.36
+3,2,Mixed,Daily,Medium,Medium,Sometimes,Low,Fresh Daily,Street Food,Somewhat aware,Summer,1.99
+6,4,Non-Vegetarian,Daily,Medium,High,Sometimes,Medium,Batch Cooking,Street Food,Not aware,Monsoon,4.2
+5,4,Mixed,Weekly,Medium,Medium,Sometimes,Medium,Batch Cooking,Chinese,Not aware,All year,3.24
+2,1,Mixed,Weekly,Medium,High,Sometimes,High,Fresh Daily,Italian,Aware,Monsoon,0.43
+5,1,Mixed,Weekly,Small,Medium,Sometimes,Low,Reheated,Fusion,Somewhat aware,Summer,1.73
+5,2,Mixed,Weekly,Medium,Medium,Often,Medium,Reheated,Italian,Somewhat aware,Monsoon,3.62
+3,3,Non-Vegetarian,Daily,Large,Medium,Sometimes,High,Fresh Daily,Street Food,Not aware,Monsoon,4.27
+5,4,Vegetarian,Daily,Medium,Low,Often,Medium,Fresh Daily,Chinese,Not aware,Winter,3.75
+6,1,Mixed,Bulk Buying,Small,High,Sometimes,Medium,Fresh Daily,Street Food,Aware,All year,1.44
+5,1,Vegetarian,Bulk Buying,Small,Low,Never,Low,Fresh Daily,Italian,Not aware,All year,2.65
+5,2,Vegetarian,Bulk Buying,Medium,Low,Often,Low,Batch Cooking,Indian,Not aware,Winter,4.52
+4,4,Mixed,Bulk Buying,Medium,High,Often,Low,Batch Cooking,Fusion,Not aware,Monsoon,4.48
+2,1,Non-Vegetarian,Bulk Buying,Medium,Low,Sometimes,Medium,Batch Cooking,Fusion,Not aware,Monsoon,3.19
+5,2,Vegetarian,Weekly,Medium,Low,Never,Medium,Reheated,South Indian,Not aware,Winter,2.91
+3,1,Vegetarian,Bulk Buying,Medium,Low,Sometimes,Medium,Batch Cooking,Indian,Not aware,Summer,3.11
+4,1,Mixed,Weekly,Small,Medium,Often,Low,Batch Cooking,South Indian,Somewhat aware,Winter,2.27
+2,4,Non-Vegetarian,Bulk Buying,Medium,Low,Sometimes,Low,Batch Cooking,Italian,Aware,Monsoon,3.16
+2,1,Mixed,Daily,Medium,Low,Often,High,Fresh Daily,North Indian,Somewhat aware,All year,2.34
+1,2,Non-Vegetarian,Weekly,Small,Medium,Never,Medium,Fresh Daily,Chinese,Somewhat aware,Winter,2.07
+6,4,Vegetarian,Weekly,Small,Medium,Sometimes,Low,Reheated,Italian,Somewhat aware,Summer,3.4
+1,3,Non-Vegetarian,Daily,Small,High,Often,High,Fresh Daily,North Indian,Somewhat aware,Winter,2.82
+1,1,Mixed,Bulk Buying,Small,Low,Often,Medium,Fresh Daily,Indian,Somewhat aware,Monsoon,3.03
+6,2,Mixed,Weekly,Medium,Low,Sometimes,Medium,Fresh Daily,Street Food,Somewhat aware,Summer,2.89
+4,4,Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Medium,Fresh Daily,Fusion,Not aware,Winter,3.85
+3,2,Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Medium,Fresh Daily,Italian,Somewhat aware,Summer,1.98
+5,3,Vegetarian,Weekly,Medium,High,Often,Medium,Fresh Daily,North Indian,Somewhat aware,Winter,2.27
+3,3,Mixed,Bulk Buying,Small,Medium,Often,Medium,Batch Cooking,Indian,Somewhat aware,Winter,4.44
+1,3,Vegetarian,Bulk Buying,Large,High,Sometimes,Low,Fresh Daily,Indian,Somewhat aware,Winter,1.24
+5,1,Non-Vegetarian,Daily,Medium,Medium,Sometimes,High,Batch Cooking,Chinese,Not aware,All year,2.76
+2,4,Non-Vegetarian,Weekly,Medium,Medium,Often,High,Fresh Daily,South Indian,Somewhat aware,Winter,3.6
+4,4,Vegetarian,Weekly,Large,Low,Sometimes,Medium,Fresh Daily,Italian,Aware,Monsoon,3.12
+6,1,Mixed,Bulk Buying,Small,Low,Often,High,Batch Cooking,Chinese,Somewhat aware,All year,4.18
+6,4,Mixed,Weekly,Large,Medium,Sometimes,Low,Batch Cooking,South Indian,Not aware,Winter,3.23
+3,4,Vegetarian,Weekly,Small,Low,Sometimes,Medium,Fresh Daily,Fusion,Not aware,Monsoon,3.07
+5,3,Mixed,Daily,Large,Medium,Often,High,Reheated,Fusion,Somewhat aware,All year,3.4
+4,2,Non-Vegetarian,Bulk Buying,Medium,High,Sometimes,Medium,Fresh Daily,Chinese,Aware,All year,2.17
+3,2,Non-Vegetarian,Daily,Medium,Low,Sometimes,Medium,Fresh Daily,Italian,Not aware,Winter,2.61
+1,4,Non-Vegetarian,Daily,Medium,Medium,Often,Low,Batch Cooking,Street Food,Aware,All year,4.58
+3,1,Vegetarian,Daily,Medium,Medium,Often,Medium,Fresh Daily,Indian,Somewhat aware,Monsoon,1.67
+4,4,Mixed,Daily,Medium,Low,Never,High,Batch Cooking,Fusion,Not aware,Monsoon,4.25
+6,4,Vegetarian,Daily,Small,Low,Never,Low,Reheated,Fusion,Somewhat aware,Summer,3.01
+1,3,Mixed,Weekly,Medium,Medium,Sometimes,Medium,Batch Cooking,North Indian,Somewhat aware,Monsoon,2.04
+5,2,Vegetarian,Weekly,Small,High,Sometimes,Low,Reheated,Chinese,Not aware,All year,1.77
+6,3,Mixed,Weekly,Medium,Medium,Sometimes,High,Reheated,Street Food,Not aware,Summer,4.38
+6,1,Mixed,Daily,Small,Medium,Never,Medium,Fresh Daily,Italian,Not aware,Winter,3.07
+3,4,Non-Vegetarian,Daily,Medium,Medium,Sometimes,Medium,Fresh Daily,Italian,Aware,Summer,3.43
+1,2,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Batch Cooking,Fusion,Not aware,All year,1.74
+2,1,Non-Vegetarian,Weekly,Small,Medium,Sometimes,Low,Fresh Daily,South Indian,Somewhat aware,Winter,0.83
+6,4,Non-Vegetarian,Daily,Medium,Medium,Sometimes,Low,Batch Cooking,Indian,Somewhat aware,Monsoon,4.07
+6,3,Non-Vegetarian,Daily,Small,Medium,Often,Medium,Reheated,South Indian,Somewhat aware,Summer,4.52
+4,3,Non-Vegetarian,Weekly,Small,Medium,Sometimes,Low,Batch Cooking,Chinese,Not aware,All year,3.94
+1,1,Vegetarian,Daily,Medium,Medium,Sometimes,Low,Batch Cooking,Indian,Somewhat aware,Summer,1.01
+1,4,Vegetarian,Bulk Buying,Small,Medium,Sometimes,Low,Batch Cooking,Indian,Not aware,Winter,3.69
+3,3,Non-Vegetarian,Bulk Buying,Large,Low,Sometimes,Medium,Batch Cooking,Chinese,Somewhat aware,All year,3.69
+4,4,Mixed,Daily,Large,Low,Never,Medium,Batch Cooking,Chinese,Somewhat aware,Winter,3.4
+1,4,Vegetarian,Weekly,Medium,High,Sometimes,Low,Batch Cooking,Indian,Not aware,All year,2.46
+5,1,Vegetarian,Weekly,Medium,Low,Never,Medium,Batch Cooking,Chinese,Not aware,All year,2.18
+4,1,Vegetarian,Daily,Medium,Low,Sometimes,Medium,Fresh Daily,Indian,Not aware,Winter,1.3
+1,4,Vegetarian,Weekly,Medium,Low,Often,Medium,Fresh Daily,South Indian,Not aware,All year,3.35
+1,3,Vegetarian,Daily,Large,Medium,Often,Medium,Batch Cooking,North Indian,Aware,Monsoon,2.33
+3,2,Mixed,Daily,Medium,Low,Sometimes,Low,Batch Cooking,Street Food,Not aware,Monsoon,3.06
+5,2,Mixed,Weekly,Medium,Low,Sometimes,Low,Batch Cooking,Italian,Somewhat aware,Winter,2.34
+5,3,Non-Vegetarian,Bulk Buying,Medium,Medium,Often,Medium,Batch Cooking,Chinese,Not aware,Monsoon,6.03
+3,4,Vegetarian,Daily,Medium,Low,Sometimes,Low,Fresh Daily,Chinese,Somewhat aware,Monsoon,2.2
+2,1,Non-Vegetarian,Weekly,Large,Medium,Never,Low,Reheated,North Indian,Somewhat aware,Winter,1.01
+6,3,Vegetarian,Weekly,Medium,High,Sometimes,Medium,Fresh Daily,Chinese,Aware,All year,2.46
+3,4,Vegetarian,Daily,Medium,Medium,Sometimes,High,Reheated,Chinese,Not aware,Monsoon,3.11
+2,2,Non-Vegetarian,Weekly,Medium,Medium,Never,Medium,Fresh Daily,North Indian,Not aware,Winter,2.42
+3,2,Vegetarian,Weekly,Medium,Low,Often,High,Reheated,Street Food,Aware,Monsoon,4.32
+1,4,Vegetarian,Bulk Buying,Medium,High,Often,Medium,Reheated,Street Food,Not aware,All year,4.45
+2,1,Non-Vegetarian,Weekly,Large,High,Often,High,Fresh Daily,Fusion,Not aware,Monsoon,2.61
+4,2,Non-Vegetarian,Weekly,Medium,Low,Sometimes,Medium,Fresh Daily,Indian,Somewhat aware,All year,2.19
+6,2,Vegetarian,Daily,Medium,Medium,Sometimes,High,Batch Cooking,Fusion,Aware,Monsoon,2.7
+5,4,Vegetarian,Daily,Medium,Medium,Never,High,Reheated,Chinese,Not aware,Summer,3.32
+5,1,Vegetarian,Weekly,Large,Medium,Never,Medium,Fresh Daily,Fusion,Not aware,Summer,2.04
+4,2,Mixed,Bulk Buying,Small,Medium,Never,Low,Reheated,North Indian,Somewhat aware,Winter,2.38
+1,1,Vegetarian,Weekly,Large,Medium,Never,Medium,Fresh Daily,South Indian,Somewhat aware,All year,0.59
+3,4,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Fresh Daily,Indian,Not aware,Winter,3.64
+6,3,Vegetarian,Daily,Small,High,Often,Low,Reheated,Fusion,Not aware,All year,4.28
+1,2,Mixed,Daily,Medium,Medium,Sometimes,Medium,Fresh Daily,North Indian,Not aware,Winter,1.31
+6,2,Non-Vegetarian,Bulk Buying,Medium,Medium,Often,Low,Fresh Daily,South Indian,Not aware,Summer,5.37
+5,1,Mixed,Weekly,Medium,Medium,Sometimes,Low,Reheated,Street Food,Somewhat aware,Summer,1.94
+2,4,Mixed,Daily,Medium,High,Never,Low,Fresh Daily,Chinese,Somewhat aware,Monsoon,1.15
+5,3,Mixed,Weekly,Medium,Low,Sometimes,Medium,Fresh Daily,Indian,Aware,Winter,1.44
+6,2,Non-Vegetarian,Weekly,Medium,Low,Sometimes,Low,Fresh Daily,Chinese,Somewhat aware,Winter,2.85
+1,2,Vegetarian,Weekly,Medium,High,Sometimes,High,Fresh Daily,Chinese,Somewhat aware,Monsoon,1.16
+1,3,Vegetarian,Daily,Small,High,Often,Medium,Batch Cooking,Fusion,Somewhat aware,Winter,1.7
+4,3,Non-Vegetarian,Weekly,Small,High,Never,Low,Reheated,South Indian,Not aware,Monsoon,1.82
+6,2,Vegetarian,Weekly,Large,High,Sometimes,High,Batch Cooking,Fusion,Not aware,Monsoon,2.71
+1,2,Non-Vegetarian,Daily,Medium,Low,Sometimes,Medium,Fresh Daily,Indian,Not aware,Monsoon,1.92
+4,3,Mixed,Daily,Large,High,Sometimes,Low,Batch Cooking,Street Food,Not aware,Monsoon,3.55
+1,3,Non-Vegetarian,Weekly,Medium,Medium,Often,High,Fresh Daily,Street Food,Not aware,Summer,4.67
+4,3,Non-Vegetarian,Weekly,Large,Medium,Sometimes,High,Batch Cooking,Street Food,Not aware,Summer,3.63
+4,1,Vegetarian,Weekly,Medium,Medium,Never,Low,Fresh Daily,Indian,Aware,Winter,0.3
+1,2,Non-Vegetarian,Weekly,Large,Medium,Often,High,Batch Cooking,Chinese,Not aware,Monsoon,4.09
+5,3,Mixed,Bulk Buying,Medium,Medium,Never,Medium,Fresh Daily,Fusion,Somewhat aware,Winter,2.63
+6,4,Mixed,Daily,Medium,Medium,Sometimes,Medium,Fresh Daily,Italian,Somewhat aware,Monsoon,2.79
+6,3,Mixed,Weekly,Medium,Low,Sometimes,Low,Fresh Daily,Italian,Not aware,Winter,2.81
+1,2,Mixed,Weekly,Medium,Medium,Never,Low,Fresh Daily,Fusion,Not aware,Winter,1.44
+2,3,Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Medium,Batch Cooking,North Indian,Somewhat aware,Summer,3.06
+2,1,Vegetarian,Bulk Buying,Medium,High,Sometimes,Medium,Batch Cooking,Indian,Somewhat aware,Summer,1.08
+3,1,Vegetarian,Weekly,Large,Medium,Often,High,Fresh Daily,North Indian,Aware,Summer,2.14
+1,3,Mixed,Weekly,Small,Medium,Never,Medium,Fresh Daily,Indian,Not aware,Winter,1.83
+6,4,Vegetarian,Weekly,Medium,Low,Sometimes,High,Fresh Daily,North Indian,Somewhat aware,Winter,3.95
+5,4,Vegetarian,Daily,Medium,Medium,Never,Low,Fresh Daily,South Indian,Aware,Winter,3.44
+5,3,Vegetarian,Weekly,Small,Low,Sometimes,Low,Reheated,Street Food,Somewhat aware,Monsoon,3.85
+2,1,Non-Vegetarian,Weekly,Medium,Low,Never,Low,Fresh Daily,Italian,Not aware,Winter,1.85
+1,4,Non-Vegetarian,Bulk Buying,Medium,Medium,Often,Low,Fresh Daily,Street Food,Not aware,Winter,4.97
+6,2,Non-Vegetarian,Weekly,Large,Medium,Sometimes,Medium,Batch Cooking,South Indian,Not aware,Summer,3.38
+2,2,Non-Vegetarian,Weekly,Small,Medium,Sometimes,Low,Batch Cooking,Chinese,Not aware,Winter,2.99
+4,4,Mixed,Weekly,Small,High,Sometimes,Medium,Fresh Daily,Chinese,Aware,Winter,2.24
+6,3,Mixed,Daily,Small,Medium,Often,High,Batch Cooking,Indian,Not aware,All year,4.13
+1,3,Mixed,Daily,Medium,Low,Often,High,Batch Cooking,Fusion,Not aware,Monsoon,3.25
+1,2,Non-Vegetarian,Weekly,Large,Low,Sometimes,Low,Batch Cooking,Fusion,Somewhat aware,Winter,1.86
+1,4,Mixed,Weekly,Small,Low,Sometimes,Medium,Batch Cooking,Street Food,Somewhat aware,Summer,2.63
+1,2,Vegetarian,Daily,Medium,Medium,Often,Low,Batch Cooking,Chinese,Aware,Summer,2.54
+1,3,Non-Vegetarian,Bulk Buying,Small,Medium,Often,Low,Batch Cooking,Chinese,Aware,Summer,4.11
+5,4,Vegetarian,Daily,Medium,High,Sometimes,Medium,Fresh Daily,Street Food,Aware,All year,3.17
+4,3,Vegetarian,Bulk Buying,Large,High,Sometimes,Low,Batch Cooking,Chinese,Aware,All year,2.17
+6,1,Mixed,Daily,Medium,High,Often,Low,Fresh Daily,Italian,Not aware,Monsoon,2.14
+5,2,Vegetarian,Weekly,Small,Medium,Sometimes,Low,Batch Cooking,North Indian,Not aware,All year,2.09
+6,2,Non-Vegetarian,Daily,Medium,Low,Sometimes,Low,Batch Cooking,Street Food,Not aware,All year,3.96
+2,4,Mixed,Daily,Medium,Low,Often,Low,Fresh Daily,Italian,Not aware,Winter,3.89
+2,3,Non-Vegetarian,Daily,Small,Medium,Sometimes,Low,Fresh Daily,North Indian,Somewhat aware,Summer,1.71
+6,2,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Fresh Daily,South Indian,Not aware,Monsoon,3.04
+2,3,Vegetarian,Weekly,Large,Medium,Never,Medium,Batch Cooking,South Indian,Not aware,Winter,2.61
+1,3,Mixed,Daily,Large,Medium,Sometimes,Low,Fresh Daily,Chinese,Somewhat aware,Summer,1.6
+5,2,Vegetarian,Daily,Medium,High,Often,Medium,Reheated,Fusion,Not aware,All year,3.31
+5,2,Mixed,Weekly,Small,High,Never,Low,Fresh Daily,Fusion,Not aware,Summer,2.35
+6,4,Non-Vegetarian,Weekly,Medium,High,Often,Low,Fresh Daily,Street Food,Somewhat aware,Summer,4.35
+6,3,Mixed,Daily,Medium,Medium,Sometimes,High,Batch Cooking,Street Food,Somewhat aware,Winter,3.45
+1,1,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Batch Cooking,North Indian,Somewhat aware,Winter,1.86
+5,3,Non-Vegetarian,Daily,Large,High,Sometimes,Medium,Batch Cooking,South Indian,Aware,Winter,2.11
+6,3,Non-Vegetarian,Weekly,Small,Medium,Often,Low,Fresh Daily,Indian,Somewhat aware,Summer,3.74
+5,3,Mixed,Daily,Medium,Medium,Often,Medium,Fresh Daily,North Indian,Somewhat aware,Monsoon,2.93
+5,3,Vegetarian,Bulk Buying,Medium,Low,Often,Low,Batch Cooking,North Indian,Somewhat aware,Summer,3.42
+6,4,Vegetarian,Bulk Buying,Small,High,Sometimes,Medium,Fresh Daily,South Indian,Not aware,All year,3.15
+3,2,Non-Vegetarian,Bulk Buying,Small,Low,Never,High,Fresh Daily,Street Food,Not aware,Monsoon,4.75
+1,2,Non-Vegetarian,Daily,Medium,Low,Never,Low,Fresh Daily,Italian,Somewhat aware,Monsoon,1.52
+3,1,Non-Vegetarian,Weekly,Large,Medium,Often,Medium,Batch Cooking,Italian,Not aware,Monsoon,3.02
+2,3,Non-Vegetarian,Bulk Buying,Large,Medium,Often,High,Batch Cooking,South Indian,Not aware,All year,4.49
+1,2,Non-Vegetarian,Bulk Buying,Small,Medium,Sometimes,Medium,Fresh Daily,Indian,Somewhat aware,Monsoon,2.33
+1,2,Non-Vegetarian,Daily,Medium,Low,Sometimes,Medium,Fresh Daily,Indian,Not aware,Monsoon,2.23
+5,3,Mixed,Weekly,Medium,Low,Often,Medium,Fresh Daily,Street Food,Somewhat aware,Monsoon,3.48
+4,2,Vegetarian,Weekly,Small,High,Sometimes,Medium,Batch Cooking,North Indian,Not aware,Monsoon,2.15
+4,2,Mixed,Bulk Buying,Small,Medium,Never,High,Reheated,Italian,Not aware,Summer,2.96
+5,2,Non-Vegetarian,Daily,Medium,Medium,Sometimes,Low,Reheated,Chinese,Somewhat aware,All year,2.15
+4,2,Non-Vegetarian,Daily,Medium,Medium,Sometimes,Medium,Batch Cooking,Chinese,Not aware,Winter,2.8
+4,1,Vegetarian,Weekly,Medium,Low,Often,Low,Batch Cooking,South Indian,Somewhat aware,All year,2.17
+1,4,Vegetarian,Daily,Medium,Low,Sometimes,Low,Fresh Daily,Fusion,Somewhat aware,All year,2.3
+6,1,Vegetarian,Bulk Buying,Large,High,Sometimes,Medium,Batch Cooking,Street Food,Somewhat aware,All year,2.66
+3,2,Vegetarian,Weekly,Medium,Medium,Never,Low,Batch Cooking,Street Food,Somewhat aware,All year,2.66
+1,3,Non-Vegetarian,Weekly,Medium,Low,Often,Medium,Batch Cooking,South Indian,Not aware,Monsoon,4.08
+5,1,Vegetarian,Weekly,Small,Low,Sometimes,Low,Fresh Daily,South Indian,Somewhat aware,Monsoon,1.39
+5,3,Mixed,Weekly,Large,Medium,Often,Medium,Fresh Daily,Indian,Aware,Summer,3.47
+1,3,Mixed,Bulk Buying,Small,Medium,Sometimes,Low,Batch Cooking,Fusion,Somewhat aware,Winter,2.98
+2,3,Non-Vegetarian,Weekly,Small,High,Never,High,Batch Cooking,North Indian,Somewhat aware,Summer,1.84
+1,2,Vegetarian,Bulk Buying,Large,Low,Sometimes,High,Reheated,North Indian,Not aware,Summer,2.44
+2,1,Vegetarian,Weekly,Medium,Medium,Sometimes,High,Fresh Daily,Fusion,Aware,Winter,1.21
+1,4,Mixed,Daily,Large,High,Sometimes,Medium,Fresh Daily,Street Food,Somewhat aware,All year,2.27
+5,2,Mixed,Weekly,Medium,Low,Often,Low,Fresh Daily,Street Food,Aware,All year,2.93
+4,4,Non-Vegetarian,Daily,Medium,Low,Often,Low,Batch Cooking,Indian,Not aware,Monsoon,4.53
+6,1,Non-Vegetarian,Daily,Small,Low,Never,High,Fresh Daily,North Indian,Not aware,Summer,3.15
+5,1,Non-Vegetarian,Weekly,Medium,High,Sometimes,High,Batch Cooking,Street Food,Not aware,Winter,2.84
+4,4,Non-Vegetarian,Daily,Large,Low,Often,High,Batch Cooking,Indian,Somewhat aware,Summer,4.11
+4,4,Vegetarian,Daily,Medium,High,Sometimes,Low,Reheated,Chinese,Not aware,All year,3.25
+1,4,Vegetarian,Daily,Small,Medium,Sometimes,Medium,Fresh Daily,Indian,Somewhat aware,Winter,2.15
+1,4,Vegetarian,Weekly,Large,High,Never,High,Reheated,Fusion,Not aware,Monsoon,1.68
+4,1,Vegetarian,Weekly,Medium,Medium,Never,Low,Reheated,North Indian,Somewhat aware,All year,1.46
+1,4,Mixed,Weekly,Small,Medium,Sometimes,Low,Fresh Daily,North Indian,Somewhat aware,All year,2.11
+1,3,Mixed,Weekly,Small,Low,Sometimes,Medium,Reheated,Italian,Somewhat aware,All year,1.83
+2,1,Mixed,Weekly,Medium,Low,Sometimes,Low,Reheated,Chinese,Not aware,Monsoon,1.65
+6,1,Vegetarian,Daily,Small,Medium,Never,Low,Fresh Daily,Chinese,Not aware,Summer,2.92
+3,4,Vegetarian,Weekly,Small,High,Sometimes,Low,Fresh Daily,South Indian,Somewhat aware,Monsoon,1.98
+5,2,Vegetarian,Weekly,Small,High,Never,Low,Fresh Daily,South Indian,Aware,Summer,2.04
+3,4,Mixed,Weekly,Medium,Medium,Never,High,Batch Cooking,Street Food,Not aware,Winter,4.48
+2,1,Non-Vegetarian,Daily,Medium,Medium,Often,Low,Fresh Daily,Italian,Aware,Summer,2.83
+3,2,Non-Vegetarian,Daily,Small,Medium,Sometimes,Medium,Reheated,South Indian,Not aware,Summer,3.09
+1,2,Non-Vegetarian,Daily,Medium,Medium,Never,Low,Fresh Daily,Street Food,Somewhat aware,Winter,2.27
+5,2,Vegetarian,Daily,Medium,Low,Often,Low,Fresh Daily,North Indian,Not aware,Summer,3.07
+2,3,Mixed,Bulk Buying,Medium,Low,Sometimes,Low,Reheated,South Indian,Not aware,Monsoon,3.85
+3,4,Mixed,Daily,Medium,Medium,Sometimes,High,Batch Cooking,Chinese,Somewhat aware,Monsoon,2.77
+6,4,Vegetarian,Weekly,Medium,Low,Often,Medium,Reheated,North Indian,Somewhat aware,Winter,4.58
+4,3,Vegetarian,Daily,Small,Medium,Sometimes,Medium,Batch Cooking,Street Food,Somewhat aware,Monsoon,3.59
+3,1,Mixed,Bulk Buying,Small,Medium,Often,Low,Fresh Daily,North Indian,Somewhat aware,Summer,3.13
+4,4,Non-Vegetarian,Bulk Buying,Small,Medium,Sometimes,Low,Fresh Daily,Indian,Aware,Winter,4.02
+5,3,Non-Vegetarian,Weekly,Medium,Low,Sometimes,Medium,Fresh Daily,Chinese,Not aware,Monsoon,3.4
+2,3,Vegetarian,Weekly,Medium,High,Sometimes,Medium,Batch Cooking,Chinese,Not aware,All year,2.04
+4,3,Vegetarian,Daily,Medium,Medium,Never,High,Reheated,Fusion,Somewhat aware,Summer,2.39
+6,4,Vegetarian,Daily,Medium,Medium,Sometimes,Medium,Fresh Daily,Fusion,Aware,Winter,2.95
+4,4,Vegetarian,Weekly,Medium,Low,Sometimes,Medium,Fresh Daily,Street Food,Not aware,Monsoon,3.89
+3,3,Mixed,Weekly,Large,Low,Never,Low,Fresh Daily,Indian,Aware,Summer,2.16
+1,3,Non-Vegetarian,Bulk Buying,Large,High,Sometimes,Low,Fresh Daily,North Indian,Not aware,Summer,2.52
+2,3,Non-Vegetarian,Weekly,Medium,Low,Sometimes,Medium,Batch Cooking,Italian,Somewhat aware,Winter,2.21
+6,2,Vegetarian,Daily,Small,Medium,Often,Low,Fresh Daily,North Indian,Somewhat aware,Winter,3.22
+4,2,Vegetarian,Bulk Buying,Small,Medium,Often,Low,Batch Cooking,Chinese,Not aware,Monsoon,4.69
+2,3,Vegetarian,Bulk Buying,Small,Low,Often,Low,Reheated,Chinese,Somewhat aware,Winter,4.0
+3,1,Mixed,Daily,Large,High,Often,Medium,Batch Cooking,Fusion,Somewhat aware,Monsoon,0.74
+4,2,Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Reheated,Indian,Not aware,Winter,2.19
+4,3,Vegetarian,Weekly,Large,Low,Never,Low,Batch Cooking,South Indian,Aware,Monsoon,1.73
+5,4,Mixed,Bulk Buying,Small,Medium,Often,Low,Reheated,Chinese,Not aware,All year,5.45
+2,3,Non-Vegetarian,Daily,Large,Low,Often,Medium,Fresh Daily,Street Food,Somewhat aware,Winter,3.82
+4,2,Mixed,Daily,Small,High,Sometimes,High,Batch Cooking,Street Food,Not aware,Monsoon,2.24
+3,2,Non-Vegetarian,Daily,Small,Medium,Often,Medium,Fresh Daily,South Indian,Aware,Monsoon,2.41
+6,3,Vegetarian,Bulk Buying,Medium,High,Often,Medium,Fresh Daily,Fusion,Aware,Summer,2.88
+1,3,Vegetarian,Weekly,Small,Medium,Often,Low,Fresh Daily,Italian,Aware,All year,2.17
+1,1,Non-Vegetarian,Daily,Small,Low,Never,Low,Fresh Daily,Chinese,Not aware,Summer,2.04
+3,3,Mixed,Weekly,Large,Low,Sometimes,High,Batch Cooking,Indian,Not aware,Summer,2.86
+4,2,Mixed,Daily,Small,High,Sometimes,Low,Batch Cooking,Chinese,Not aware,Monsoon,2.08
+5,3,Non-Vegetarian,Weekly,Medium,High,Never,Low,Fresh Daily,Italian,Not aware,Summer,2.83
+3,4,Non-Vegetarian,Daily,Medium,Low,Sometimes,Low,Batch Cooking,Indian,Aware,All year,3.0
+6,4,Non-Vegetarian,Bulk Buying,Small,Medium,Sometimes,High,Fresh Daily,Fusion,Not aware,Winter,4.87
+3,3,Mixed,Weekly,Small,Medium,Often,Medium,Fresh Daily,Chinese,Not aware,All year,4.12
+1,2,Mixed,Daily,Small,Low,Often,Low,Fresh Daily,South Indian,Not aware,Monsoon,2.69
+1,2,Vegetarian,Daily,Medium,Medium,Often,Medium,Batch Cooking,Chinese,Not aware,Summer,3.2
+6,1,Vegetarian,Weekly,Small,Low,Sometimes,Low,Fresh Daily,North Indian,Not aware,All year,1.79
+1,4,Non-Vegetarian,Weekly,Medium,Low,Never,Medium,Reheated,Chinese,Somewhat aware,Winter,3.25
+6,4,Mixed,Weekly,Medium,Low,Never,Low,Batch Cooking,Fusion,Somewhat aware,Summer,3.13
+2,4,Non-Vegetarian,Weekly,Small,High,Never,Low,Fresh Daily,Street Food,Not aware,Summer,4.09
+1,2,Mixed,Daily,Medium,Low,Sometimes,Low,Reheated,Italian,Somewhat aware,All year,1.28
+2,2,Mixed,Daily,Medium,Medium,Often,Medium,Fresh Daily,Fusion,Somewhat aware,Monsoon,1.98
+4,4,Vegetarian,Daily,Medium,Medium,Sometimes,Low,Batch Cooking,Indian,Not aware,Winter,2.65
+3,3,Mixed,Weekly,Medium,Low,Never,Medium,Batch Cooking,North Indian,Aware,All year,1.96
+5,3,Vegetarian,Weekly,Large,Low,Never,High,Reheated,Fusion,Not aware,Winter,3.7
+4,2,Vegetarian,Weekly,Large,Medium,Never,Medium,Batch Cooking,Street Food,Somewhat aware,Summer,1.62
+3,2,Mixed,Weekly,Medium,Medium,Often,Medium,Batch Cooking,Chinese,Not aware,All year,3.15
+4,3,Mixed,Daily,Medium,Medium,Often,Medium,Reheated,Italian,Somewhat aware,Summer,2.68
+6,4,Vegetarian,Bulk Buying,Medium,Low,Sometimes,Low,Fresh Daily,Italian,Not aware,Summer,3.79
+3,2,Vegetarian,Bulk Buying,Medium,High,Sometimes,Low,Fresh Daily,South Indian,Somewhat aware,Monsoon,1.27
+1,4,Vegetarian,Weekly,Medium,High,Never,High,Fresh Daily,Italian,Somewhat aware,Summer,1.84
+3,1,Non-Vegetarian,Weekly,Large,Low,Sometimes,Medium,Batch Cooking,Chinese,Somewhat aware,Summer,2.5
+6,2,Vegetarian,Weekly,Medium,High,Sometimes,Low,Batch Cooking,South Indian,Not aware,Monsoon,1.76
+2,4,Vegetarian,Weekly,Medium,High,Sometimes,Low,Fresh Daily,Indian,Somewhat aware,All year,1.67
+6,4,Mixed,Daily,Medium,Low,Sometimes,Medium,Fresh Daily,North Indian,Somewhat aware,Summer,2.76
+4,4,Mixed,Weekly,Medium,Low,Never,Medium,Reheated,South Indian,Somewhat aware,Winter,2.89
+4,2,Non-Vegetarian,Daily,Medium,High,Often,High,Fresh Daily,North Indian,Somewhat aware,Monsoon,3.03
+2,4,Non-Vegetarian,Daily,Medium,Medium,Sometimes,Low,Batch Cooking,Fusion,Not aware,All year,3.38
+6,4,Vegetarian,Bulk Buying,Medium,Low,Never,Medium,Fresh Daily,Italian,Not aware,All year,4.26
+1,4,Non-Vegetarian,Weekly,Medium,Low,Often,Medium,Batch Cooking,Italian,Somewhat aware,All year,3.55
+2,1,Vegetarian,Daily,Large,Low,Often,High,Fresh Daily,North Indian,Not aware,Winter,2.14
+3,3,Non-Vegetarian,Weekly,Medium,Low,Often,Low,Fresh Daily,Street Food,Not aware,Summer,4.54
+3,4,Vegetarian,Daily,Medium,Medium,Sometimes,Low,Fresh Daily,Fusion,Somewhat aware,Monsoon,2.58
+3,4,Mixed,Daily,Medium,Low,Often,Low,Fresh Daily,Italian,Not aware,Summer,3.4
+1,1,Non-Vegetarian,Weekly,Large,Medium,Never,Medium,Fresh Daily,South Indian,Not aware,Monsoon,1.98
+2,4,Mixed,Daily,Medium,Medium,Sometimes,Medium,Fresh Daily,Chinese,Aware,All year,2.21
+1,1,Mixed,Weekly,Large,Medium,Often,High,Fresh Daily,Chinese,Somewhat aware,Monsoon,1.73
+4,2,Non-Vegetarian,Weekly,Small,Low,Sometimes,Medium,Batch Cooking,Italian,Not aware,Winter,2.99
+3,3,Non-Vegetarian,Weekly,Medium,Low,Sometimes,High,Fresh Daily,Fusion,Not aware,Summer,3.75
+4,2,Non-Vegetarian,Bulk Buying,Large,Medium,Never,Medium,Reheated,Italian,Aware,Summer,2.93
+4,3,Vegetarian,Weekly,Medium,Low,Sometimes,Medium,Fresh Daily,Indian,Not aware,All year,2.5
+5,1,Mixed,Weekly,Large,High,Sometimes,Low,Batch Cooking,South Indian,Somewhat aware,All year,0.26
+4,3,Vegetarian,Weekly,Medium,High,Sometimes,High,Fresh Daily,Italian,Somewhat aware,Winter,1.6
+4,3,Mixed,Daily,Large,High,Sometimes,Medium,Reheated,Fusion,Somewhat aware,All year,1.46
+4,3,Mixed,Bulk Buying,Medium,High,Sometimes,Medium,Fresh Daily,Chinese,Not aware,Winter,2.92
+4,2,Mixed,Weekly,Medium,Low,Never,Medium,Fresh Daily,Italian,Not aware,Winter,2.44
+4,2,Vegetarian,Weekly,Large,Low,Sometimes,Low,Reheated,South Indian,Somewhat aware,Monsoon,1.48
+2,2,Non-Vegetarian,Weekly,Small,Medium,Never,High,Batch Cooking,Italian,Aware,Monsoon,2.33
+2,2,Mixed,Daily,Medium,High,Often,Medium,Fresh Daily,North Indian,Not aware,All year,1.95
+5,3,Mixed,Weekly,Medium,Medium,Sometimes,High,Batch Cooking,Street Food,Not aware,Summer,4.11
+3,2,Non-Vegetarian,Weekly,Medium,Low,Never,High,Batch Cooking,South Indian,Not aware,Monsoon,2.24
+4,2,Vegetarian,Weekly,Medium,Low,Often,High,Batch Cooking,Street Food,Somewhat aware,Summer,3.6
+2,2,Mixed,Bulk Buying,Medium,Medium,Sometimes,High,Fresh Daily,Fusion,Not aware,Winter,2.65
+3,1,Mixed,Bulk Buying,Small,Medium,Sometimes,Medium,Batch Cooking,Fusion,Not aware,Summer,2.65
+4,3,Non-Vegetarian,Bulk Buying,Medium,Low,Sometimes,Low,Fresh Daily,South Indian,Not aware,Winter,3.45
+4,4,Vegetarian,Weekly,Small,Medium,Often,Medium,Batch Cooking,Indian,Not aware,Monsoon,4.33
+4,2,Mixed,Bulk Buying,Large,High,Sometimes,Medium,Reheated,North Indian,Aware,Winter,1.38
+3,4,Non-Vegetarian,Bulk Buying,Medium,Low,Sometimes,Medium,Fresh Daily,North Indian,Somewhat aware,Summer,3.69
+6,3,Vegetarian,Weekly,Medium,Low,Sometimes,Low,Batch Cooking,Fusion,Aware,Monsoon,2.88
+4,1,Non-Vegetarian,Weekly,Large,Medium,Sometimes,Low,Batch Cooking,South Indian,Somewhat aware,Summer,1.7
+5,2,Vegetarian,Weekly,Small,Low,Never,Low,Reheated,Indian,Aware,All year,2.69
+5,1,Mixed,Weekly,Large,Medium,Never,Medium,Reheated,North Indian,Not aware,Summer,2.55
+4,1,Mixed,Weekly,Medium,High,Often,Low,Reheated,Italian,Somewhat aware,Monsoon,2.44
+6,2,Non-Vegetarian,Bulk Buying,Medium,Low,Sometimes,Low,Batch Cooking,North Indian,Somewhat aware,All year,3.94
+1,2,Non-Vegetarian,Weekly,Large,High,Never,Medium,Fresh Daily,Fusion,Somewhat aware,All year,0.92
+6,4,Non-Vegetarian,Daily,Medium,High,Often,Low,Fresh Daily,Chinese,Somewhat aware,Summer,3.58
+6,1,Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Medium,Batch Cooking,Italian,Not aware,Monsoon,3.46
+4,4,Vegetarian,Bulk Buying,Medium,Low,Never,Low,Reheated,Chinese,Somewhat aware,Monsoon,3.81
+5,1,Vegetarian,Weekly,Small,Medium,Often,High,Fresh Daily,Chinese,Not aware,All year,3.62
+4,1,Non-Vegetarian,Weekly,Medium,Low,Sometimes,Low,Reheated,South Indian,Somewhat aware,Summer,1.57
+2,3,Vegetarian,Daily,Small,Medium,Often,Low,Fresh Daily,South Indian,Aware,Monsoon,3.42
+5,4,Vegetarian,Weekly,Small,Medium,Sometimes,Medium,Batch Cooking,Street Food,Somewhat aware,Summer,4.05
+2,3,Vegetarian,Weekly,Medium,Low,Sometimes,Medium,Fresh Daily,Italian,Somewhat aware,Summer,1.72
+2,1,Mixed,Daily,Large,Low,Often,Medium,Fresh Daily,Fusion,Somewhat aware,Monsoon,1.88
+4,1,Vegetarian,Weekly,Medium,High,Sometimes,Medium,Batch Cooking,Italian,Somewhat aware,All year,0.77
+6,2,Non-Vegetarian,Weekly,Medium,Low,Sometimes,Low,Fresh Daily,Indian,Somewhat aware,All year,2.13
+3,2,Non-Vegetarian,Daily,Large,Low,Often,Medium,Fresh Daily,North Indian,Not aware,All year,3.34
+3,4,Non-Vegetarian,Daily,Large,Medium,Often,High,Fresh Daily,Indian,Somewhat aware,Winter,4.21
+1,2,Mixed,Daily,Small,High,Sometimes,Medium,Reheated,Indian,Not aware,Summer,1.41
+1,1,Mixed,Daily,Small,Medium,Sometimes,Medium,Fresh Daily,Chinese,Somewhat aware,All year,0.7
+1,4,Mixed,Bulk Buying,Medium,Medium,Sometimes,Medium,Reheated,Fusion,Aware,Monsoon,2.02
+1,1,Non-Vegetarian,Bulk Buying,Small,Medium,Sometimes,Medium,Fresh Daily,Fusion,Not aware,Summer,2.09
+6,1,Non-Vegetarian,Bulk Buying,Medium,Low,Often,Medium,Batch Cooking,Street Food,Not aware,Monsoon,5.05
+6,2,Vegetarian,Weekly,Medium,High,Sometimes,High,Batch Cooking,North Indian,Aware,Summer,1.56
+5,2,Non-Vegetarian,Bulk Buying,Medium,Low,Sometimes,High,Fresh Daily,Street Food,Somewhat aware,All year,4.84
+1,3,Mixed,Bulk Buying,Medium,Medium,Often,Low,Fresh Daily,Street Food,Somewhat aware,Monsoon,4.22
+1,4,Mixed,Weekly,Large,Medium,Sometimes,Medium,Reheated,Indian,Aware,Monsoon,1.83
+2,4,Non-Vegetarian,Daily,Medium,Low,Sometimes,Medium,Fresh Daily,Street Food,Not aware,Summer,3.85
+4,2,Non-Vegetarian,Daily,Small,High,Sometimes,High,Batch Cooking,South Indian,Somewhat aware,Winter,2.26
+3,4,Non-Vegetarian,Bulk Buying,Large,Medium,Often,Medium,Reheated,Chinese,Not aware,Monsoon,5.41
+3,3,Vegetarian,Weekly,Small,High,Sometimes,Low,Reheated,Street Food,Somewhat aware,Winter,2.17
+2,1,Mixed,Daily,Large,Medium,Sometimes,Medium,Fresh Daily,Fusion,Not aware,Winter,1.42
+5,4,Mixed,Weekly,Small,Medium,Never,High,Batch Cooking,Street Food,Aware,All year,4.37
+2,1,Non-Vegetarian,Bulk Buying,Medium,High,Often,Medium,Batch Cooking,Chinese,Somewhat aware,Winter,1.85
+1,3,Vegetarian,Weekly,Small,Medium,Often,High,Fresh Daily,Italian,Not aware,Winter,3.63
+5,4,Vegetarian,Weekly,Large,Medium,Sometimes,Medium,Fresh Daily,Indian,Aware,Summer,2.59
+6,1,Vegetarian,Weekly,Small,Low,Sometimes,Low,Reheated,Italian,Not aware,Summer,2.44
+1,2,Non-Vegetarian,Bulk Buying,Small,High,Sometimes,High,Fresh Daily,Street Food,Somewhat aware,All year,3.7
+3,2,Mixed,Weekly,Medium,Low,Often,Low,Reheated,Fusion,Somewhat aware,Winter,2.16
+5,4,Non-Vegetarian,Weekly,Medium,Low,Sometimes,Low,Fresh Daily,Street Food,Not aware,Monsoon,4.22
+5,1,Non-Vegetarian,Weekly,Large,Low,Sometimes,Medium,Reheated,Chinese,Not aware,All year,3.01
+6,3,Mixed,Weekly,Medium,Medium,Sometimes,Low,Fresh Daily,Italian,Not aware,Winter,3.1
+3,2,Mixed,Weekly,Medium,High,Sometimes,Medium,Fresh Daily,Italian,Aware,Summer,0.1
+3,1,Vegetarian,Daily,Small,Medium,Sometimes,Low,Fresh Daily,Chinese,Somewhat aware,Monsoon,0.99
+5,3,Mixed,Bulk Buying,Medium,Low,Sometimes,Low,Batch Cooking,Street Food,Not aware,Winter,4.28
+1,4,Vegetarian,Daily,Small,Low,Sometimes,Low,Fresh Daily,Italian,Somewhat aware,All year,2.74
+2,3,Vegetarian,Bulk Buying,Large,Low,Sometimes,Low,Batch Cooking,Indian,Not aware,Monsoon,2.87
+4,1,Mixed,Weekly,Small,High,Often,Medium,Fresh Daily,Italian,Somewhat aware,Winter,2.15
+5,1,Mixed,Weekly,Medium,Medium,Often,Medium,Fresh Daily,South Indian,Not aware,Summer,3.51
+1,2,Non-Vegetarian,Daily,Medium,High,Sometimes,Low,Fresh Daily,Indian,Not aware,Summer,0.99
+4,3,Vegetarian,Weekly,Medium,Low,Never,Low,Fresh Daily,South Indian,Somewhat aware,All year,2.01
+3,3,Vegetarian,Daily,Small,Low,Sometimes,Medium,Reheated,Street Food,Somewhat aware,All year,3.01
+4,1,Mixed,Daily,Small,Low,Often,Low,Batch Cooking,Italian,Somewhat aware,Winter,2.53
+6,3,Non-Vegetarian,Daily,Medium,Low,Sometimes,Low,Batch Cooking,Chinese,Somewhat aware,Winter,2.92
+1,2,Vegetarian,Daily,Large,Medium,Sometimes,Medium,Batch Cooking,Street Food,Somewhat aware,Winter,2.15
+6,3,Vegetarian,Daily,Medium,Medium,Often,Medium,Fresh Daily,Fusion,Not aware,Summer,4.11
+3,4,Non-Vegetarian,Weekly,Small,Low,Sometimes,Low,Fresh Daily,North Indian,Not aware,All year,3.61
+5,3,Non-Vegetarian,Weekly,Large,Medium,Sometimes,Low,Fresh Daily,Street Food,Somewhat aware,Winter,3.32
+3,1,Non-Vegetarian,Daily,Medium,High,Sometimes,Low,Fresh Daily,Chinese,Not aware,Winter,1.13
+2,4,Vegetarian,Daily,Small,Medium,Sometimes,Low,Reheated,Fusion,Aware,Summer,3.27
+5,1,Mixed,Daily,Large,Medium,Never,Medium,Batch Cooking,North Indian,Aware,Monsoon,1.51
+5,4,Mixed,Weekly,Medium,Medium,Often,High,Reheated,Chinese,Somewhat aware,Monsoon,4.24
+1,1,Mixed,Daily,Small,Medium,Sometimes,Medium,Fresh Daily,Street Food,Not aware,Monsoon,2.71
+5,3,Vegetarian,Daily,Medium,Low,Sometimes,Low,Batch Cooking,North Indian,Not aware,Monsoon,2.65
+5,1,Vegetarian,Daily,Large,High,Sometimes,High,Fresh Daily,South Indian,Not aware,All year,1.52
+3,1,Vegetarian,Daily,Medium,Medium,Sometimes,Medium,Fresh Daily,Indian,Not aware,Summer,0.91
+6,3,Mixed,Weekly,Small,Medium,Often,Low,Fresh Daily,North Indian,Not aware,Summer,3.67
+4,3,Vegetarian,Daily,Medium,High,Sometimes,Low,Reheated,Street Food,Aware,Summer,2.05
+3,1,Non-Vegetarian,Bulk Buying,Small,High,Sometimes,High,Fresh Daily,South Indian,Not aware,Monsoon,2.27
+1,4,Vegetarian,Daily,Small,High,Sometimes,Medium,Fresh Daily,Italian,Not aware,Winter,2.27
+5,2,Non-Vegetarian,Daily,Small,Low,Often,Low,Fresh Daily,North Indian,Not aware,Summer,3.49
+2,2,Non-Vegetarian,Weekly,Large,Medium,Often,Medium,Fresh Daily,Italian,Somewhat aware,Monsoon,2.55
+5,2,Mixed,Daily,Medium,Medium,Sometimes,Low,Batch Cooking,Chinese,Not aware,All year,2.14
+4,2,Vegetarian,Bulk Buying,Medium,High,Often,Medium,Batch Cooking,Fusion,Aware,Monsoon,3.78
+3,1,Mixed,Weekly,Small,Low,Sometimes,High,Fresh Daily,Indian,Not aware,Winter,2.02
+1,2,Mixed,Daily,Medium,High,Sometimes,Medium,Fresh Daily,North Indian,Somewhat aware,All year,0.55
+5,1,Vegetarian,Daily,Small,Low,Sometimes,Low,Batch Cooking,Italian,Not aware,Summer,2.07
+1,1,Mixed,Bulk Buying,Large,Medium,Never,Medium,Fresh Daily,Fusion,Not aware,All year,1.58
+3,2,Mixed,Weekly,Medium,Medium,Sometimes,High,Batch Cooking,Indian,Not aware,Monsoon,1.94
+6,3,Non-Vegetarian,Weekly,Medium,Medium,Never,Low,Fresh Daily,Italian,Not aware,All year,4.37
+6,4,Mixed,Bulk Buying,Medium,Medium,Never,Medium,Fresh Daily,Fusion,Somewhat aware,All year,3.29
+6,2,Mixed,Daily,Medium,Low,Never,Low,Fresh Daily,Italian,Not aware,Winter,2.54
+6,2,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Batch Cooking,Street Food,Aware,All year,2.85
+4,4,Vegetarian,Daily,Large,Medium,Sometimes,High,Batch Cooking,Chinese,Not aware,All year,3.28
+2,3,Non-Vegetarian,Weekly,Small,Medium,Sometimes,Low,Reheated,Street Food,Not aware,Winter,4.39
+6,4,Mixed,Daily,Medium,Medium,Sometimes,Medium,Fresh Daily,Chinese,Somewhat aware,All year,2.35
+5,4,Vegetarian,Weekly,Small,Medium,Often,High,Fresh Daily,Chinese,Not aware,Winter,5.58
+6,4,Mixed,Weekly,Medium,Medium,Sometimes,Medium,Fresh Daily,Indian,Somewhat aware,Monsoon,2.55
+4,4,Mixed,Weekly,Small,High,Often,Medium,Reheated,South Indian,Somewhat aware,All year,3.49
+1,2,Non-Vegetarian,Daily,Medium,Medium,Often,Medium,Batch Cooking,Chinese,Aware,Monsoon,2.2
+4,2,Vegetarian,Bulk Buying,Small,Medium,Sometimes,Medium,Batch Cooking,Street Food,Not aware,Monsoon,3.56
+3,2,Mixed,Weekly,Large,High,Often,Low,Fresh Daily,Fusion,Not aware,All year,2.91
+6,1,Vegetarian,Weekly,Medium,Low,Sometimes,Medium,Batch Cooking,Street Food,Not aware,All year,2.92
+3,3,Mixed,Daily,Large,Low,Never,Medium,Fresh Daily,Fusion,Not aware,All year,1.85
+2,3,Vegetarian,Daily,Medium,High,Never,Low,Fresh Daily,North Indian,Not aware,Winter,1.12
+1,4,Vegetarian,Daily,Medium,Medium,Often,Low,Fresh Daily,Street Food,Not aware,Monsoon,4.41
+6,1,Non-Vegetarian,Weekly,Small,Low,Sometimes,Medium,Batch Cooking,South Indian,Somewhat aware,All year,2.13
+5,2,Mixed,Weekly,Small,Medium,Sometimes,Medium,Fresh Daily,Italian,Not aware,Winter,2.26
+1,1,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Batch Cooking,Fusion,Not aware,Winter,1.76
+3,4,Non-Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Low,Batch Cooking,Fusion,Somewhat aware,Winter,3.97
+3,2,Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Fresh Daily,North Indian,Not aware,Summer,2.32
+3,1,Vegetarian,Weekly,Medium,Medium,Sometimes,High,Reheated,Indian,Somewhat aware,Monsoon,1.06
+6,3,Non-Vegetarian,Weekly,Medium,Low,Often,Low,Fresh Daily,Chinese,Not aware,Winter,4.78
+1,4,Mixed,Weekly,Large,High,Sometimes,Medium,Fresh Daily,Street Food,Not aware,Winter,2.7
+2,4,Vegetarian,Daily,Medium,Medium,Sometimes,Low,Fresh Daily,North Indian,Not aware,Winter,2.98
+2,1,Mixed,Daily,Medium,Medium,Often,Low,Batch Cooking,North Indian,Not aware,Winter,2.3
+2,2,Mixed,Weekly,Medium,Medium,Never,High,Fresh Daily,Indian,Aware,Winter,1.05
+6,1,Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Medium,Reheated,Italian,Not aware,Summer,3.2
+6,2,Mixed,Daily,Medium,Medium,Often,Low,Batch Cooking,Italian,Somewhat aware,Summer,3.38
+1,3,Mixed,Bulk Buying,Medium,Low,Sometimes,Medium,Batch Cooking,North Indian,Not aware,All year,2.8
+4,2,Non-Vegetarian,Weekly,Medium,Low,Sometimes,Low,Batch Cooking,Indian,Not aware,Monsoon,2.47
+2,1,Non-Vegetarian,Daily,Small,Medium,Sometimes,High,Fresh Daily,Indian,Somewhat aware,Winter,1.59
+2,3,Non-Vegetarian,Daily,Medium,Medium,Often,Low,Batch Cooking,South Indian,Somewhat aware,Monsoon,3.72
+2,1,Non-Vegetarian,Weekly,Medium,Medium,Sometimes,Low,Fresh Daily,North Indian,Not aware,Monsoon,1.48
+2,1,Mixed,Weekly,Medium,Medium,Sometimes,Low,Reheated,Fusion,Aware,Monsoon,1.3
+3,1,Non-Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Low,Fresh Daily,Street Food,Somewhat aware,Summer,3.48
+6,1,Vegetarian,Weekly,Medium,Low,Sometimes,Low,Fresh Daily,Fusion,Not aware,All year,1.76
+4,2,Vegetarian,Weekly,Medium,Low,Often,Medium,Reheated,Indian,Not aware,Winter,3.38
+5,4,Vegetarian,Weekly,Medium,Medium,Sometimes,Medium,Batch Cooking,Street Food,Not aware,Summer,4.2
+3,4,Vegetarian,Daily,Medium,High,Sometimes,Low,Fresh Daily,Italian,Somewhat aware,Winter,1.38
+1,1,Non-Vegetarian,Bulk Buying,Large,High,Sometimes,Medium,Fresh Daily,Street Food,Somewhat aware,Monsoon,1.36
+1,1,Vegetarian,Daily,Medium,Medium,Never,Medium,Fresh Daily,Street Food,Not aware,Monsoon,1.45
+2,2,Mixed,Weekly,Large,Medium,Often,Low,Fresh Daily,South Indian,Aware,Monsoon,2.37
+2,3,Vegetarian,Daily,Medium,Low,Sometimes,Medium,Fresh Daily,South Indian,Not aware,All year,2.23
+6,3,Mixed,Bulk Buying,Small,Medium,Sometimes,Low,Fresh Daily,Italian,Somewhat aware,All year,3.33
+6,4,Non-Vegetarian,Weekly,Medium,High,Often,High,Fresh Daily,Italian,Somewhat aware,Monsoon,4.16
+6,2,Non-Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Medium,Batch Cooking,South Indian,Not aware,Monsoon,3.86
+4,1,Non-Vegetarian,Weekly,Medium,High,Often,Medium,Fresh Daily,North Indian,Aware,Winter,1.97
+4,1,Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Medium,Fresh Daily,Street Food,Not aware,Summer,3.14
+4,1,Vegetarian,Daily,Medium,Medium,Sometimes,High,Fresh Daily,Italian,Aware,All year,1.3
+3,1,Mixed,Weekly,Small,Medium,Sometimes,Medium,Fresh Daily,South Indian,Somewhat aware,Monsoon,1.22
+5,4,Vegetarian,Daily,Medium,Low,Sometimes,Low,Batch Cooking,Fusion,Aware,All year,3.45
+5,2,Vegetarian,Daily,Small,Medium,Sometimes,High,Batch Cooking,Indian,Not aware,Winter,2.66
+5,4,Non-Vegetarian,Daily,Medium,Low,Never,High,Batch Cooking,Fusion,Not aware,Monsoon,3.72
+4,3,Mixed,Daily,Large,Low,Sometimes,High,Batch Cooking,Italian,Somewhat aware,Winter,2.44
+1,3,Non-Vegetarian,Bulk Buying,Small,Low,Sometimes,High,Batch Cooking,Indian,Aware,Summer,3.36
+5,2,Mixed,Daily,Medium,Low,Often,High,Batch Cooking,Street Food,Not aware,Monsoon,5.13
+3,4,Vegetarian,Daily,Small,Medium,Sometimes,High,Batch Cooking,North Indian,Somewhat aware,Summer,2.75
+5,1,Non-Vegetarian,Weekly,Small,Medium,Often,Medium,Batch Cooking,South Indian,Somewhat aware,Monsoon,3.74
+4,1,Non-Vegetarian,Bulk Buying,Large,Low,Never,Medium,Batch Cooking,Fusion,Somewhat aware,Summer,2.29
+6,2,Non-Vegetarian,Daily,Small,Medium,Often,Medium,Fresh Daily,North Indian,Aware,Monsoon,3.82
+3,2,Non-Vegetarian,Daily,Medium,Medium,Often,Low,Fresh Daily,North Indian,Aware,All year,3.49
+6,3,Mixed,Weekly,Small,Medium,Never,Medium,Reheated,South Indian,Not aware,Summer,3.49
+6,3,Mixed,Weekly,Large,High,Sometimes,Medium,Reheated,Chinese,Somewhat aware,Monsoon,2.08
+2,3,Vegetarian,Weekly,Medium,Low,Sometimes,Low,Batch Cooking,Indian,Not aware,Winter,2.01
+3,2,Non-Vegetarian,Bulk Buying,Medium,Low,Sometimes,Medium,Batch Cooking,Chinese,Somewhat aware,Winter,2.41
+4,2,Vegetarian,Daily,Small,Medium,Sometimes,Medium,Fresh Daily,Indian,Somewhat aware,Monsoon,1.86
+5,4,Vegetarian,Weekly,Small,Medium,Sometimes,Medium,Fresh Daily,South Indian,Aware,Monsoon,3.68
+5,1,Mixed,Weekly,Small,High,Sometimes,Low,Fresh Daily,Italian,Somewhat aware,All year,0.99
+6,3,Mixed,Weekly,Medium,High,Often,Low,Batch Cooking,Street Food,Not aware,Monsoon,4.26
+3,3,Non-Vegetarian,Weekly,Medium,Low,Sometimes,Low,Reheated,Indian,Somewhat aware,Summer,3.26
+4,4,Non-Vegetarian,Daily,Large,Medium,Never,High,Fresh Daily,Indian,Not aware,Winter,3.24
+3,3,Vegetarian,Daily,Medium,High,Sometimes,Medium,Batch Cooking,Indian,Somewhat aware,All year,1.22
+6,2,Vegetarian,Bulk Buying,Medium,Medium,Often,Low,Fresh Daily,Chinese,Somewhat aware,Summer,4.24
+2,2,Vegetarian,Weekly,Medium,Low,Never,Low,Fresh Daily,South Indian,Somewhat aware,Summer,0.56
+4,2,Vegetarian,Weekly,Small,Low,Never,Low,Batch Cooking,South Indian,Aware,Monsoon,2.1
+1,2,Non-Vegetarian,Bulk Buying,Medium,Medium,Sometimes,Low,Fresh Daily,South Indian,Not aware,Winter,2.63
+6,1,Mixed,Weekly,Large,Medium,Never,Medium,Fresh Daily,Italian,Somewhat aware,Monsoon,1.85
+3,3,Non-Vegetarian,Weekly,Medium,Low,Sometimes,Low,Batch Cooking,North Indian,Aware,Winter,2.6
+3,1,Non-Vegetarian,Bulk Buying,Small,Low,Often,High,Batch Cooking,South Indian,Aware,All year,4.07
+4,3,Non-Vegetarian,Daily,Medium,High,Often,Medium,Batch Cooking,South Indian,Somewhat aware,Summer,3.36
+3,4,Non-Vegetarian,Daily,Small,Medium,Never,Low,Reheated,Fusion,Not aware,Winter,3.57
+6,4,Mixed,Weekly,Medium,Medium,Sometimes,Medium,Fresh Daily,Fusion,Somewhat aware,Winter,2.9
+4,1,Vegetarian,Daily,Large,Low,Sometimes,Low,Batch Cooking,Italian,Aware,Summer,1.13
+4,4,Non-Vegetarian,Weekly,Small,High,Often,Low,Batch Cooking,North Indian,Not aware,Summer,4.47
+1,1,Non-Vegetarian,Bulk Buying,Medium,Medium,Often,Low,Batch Cooking,Chinese,Somewhat aware,Winter,1.94
+1,2,Non-Vegetarian,Daily,Small,Medium,Often,Medium,Batch Cooking,Chinese,Not aware,Monsoon,3.93
+3,1,Vegetarian,Weekly,Medium,High,Sometimes,Low,Batch Cooking,North Indian,Not aware,Winter,1.2
+6,1,Mixed,Weekly,Large,Medium,Sometimes,Low,Fresh Daily,North Indian,Not aware,Monsoon,2.23
+6,1,Vegetarian,Daily,Small,Medium,Sometimes,Medium,Batch Cooking,Chinese,Not aware,Summer,1.76
+4,1,Vegetarian,Weekly,Medium,Medium,Sometimes,High,Fresh Daily,Indian,Aware,Winter,1.33
+4,4,Mixed,Daily,Small,High,Sometimes,High,Batch Cooking,Chinese,Somewhat aware,Summer,2.08
+3,1,Non-Vegetarian,Bulk Buying,Small,High,Often,Low,Batch Cooking,Italian,Not aware,Monsoon,4.06
+2,2,Non-Vegetarian,Bulk Buying,Large,Low,Sometimes,Low,Reheated,Fusion,Not aware,All year,3.11
+1,3,Non-Vegetarian,Daily,Small,High,Often,Low,Batch Cooking,Chinese,Not aware,All year,3.86
+3,4,Mixed,Weekly,Medium,Low,Sometimes,Medium,Batch Cooking,South Indian,Somewhat aware,Summer,2.61
+2,4,Vegetarian,Daily,Medium,Low,Sometimes,Low,Batch Cooking,Indian,Somewhat aware,All year,2.21
+2,1,Mixed,Weekly,Large,Medium,Sometimes,Low,Batch Cooking,South Indian,Somewhat aware,Winter,1.06
+2,4,Mixed,Bulk Buying,Medium,High,Often,Low,Batch Cooking,Street Food,Not aware,Monsoon,4.78
+1,3,Vegetarian,Weekly,Small,Low,Never,Medium,Reheated,Italian,Not aware,Monsoon,2.55
+4,1,Vegetarian,Daily,Large,Medium,Sometimes,Low,Fresh Daily,Fusion,Somewhat aware,Monsoon,0.8
+6,2,Non-Vegetarian,Weekly,Medium,Low,Sometimes,Low,Batch Cooking,North Indian,Somewhat aware,Winter,2.18
+5,4,Non-Vegetarian,Bulk Buying,Medium,Medium,Sometimes,High,Fresh Daily,Chinese,Not aware,Summer,4.86
+3,2,Mixed,Bulk Buying,Medium,Low,Never,High,Batch Cooking,Italian,Not aware,Summer,3.73
+3,1,Mixed,Weekly,Small,Low,Never,Medium,Batch Cooking,Chinese,Somewhat aware,All year,1.6
+2,4,Non-Vegetarian,Weekly,Large,Medium,Never,High,Batch Cooking,Street Food,Not aware,Winter,4.23
+1,4,Mixed,Daily,Small,Low,Sometimes,High,Batch Cooking,Street Food,Aware,All year,3.43
+4,4,Non-Vegetarian,Daily,Small,Medium,Never,Low,Reheated,Indian,Not aware,Winter,3.92
+4,4,Mixed,Bulk Buying,Medium,Low,Sometimes,Low,Batch Cooking,North Indian,Somewhat aware,Summer,3.54
+1,4,Mixed,Daily,Small,Low,Sometimes,Medium,Reheated,South Indian,Somewhat aware,All year,2.3
+3,2,Vegetarian,Daily,Medium,Low,Never,Medium,Fresh Daily,South Indian,Not aware,Winter,2.39
+2,1,Vegetarian,Daily,Medium,High,Sometimes,Low,Batch Cooking,Indian,Somewhat aware,All year,0.1
+2,3,Non-Vegetarian,Bulk Buying,Small,Low,Sometimes,Medium,Fresh Daily,Fusion,Somewhat aware,Winter,2.96
+5,1,Non-Vegetarian,Weekly,Small,Medium,Sometimes,Low,Fresh Daily,North Indian,Somewhat aware,Summer,2.61
+4,2,Non-Vegetarian,Daily,Medium,Medium,Often,Medium,Batch Cooking,Italian,Aware,Monsoon,3.99
+4,3,Non-Vegetarian,Weekly,Medium,Medium,Often,Low,Batch Cooking,Street Food,Not aware,All year,5.48
+5,4,Vegetarian,Weekly,Medium,Low,Sometimes,Medium,Batch Cooking,Fusion,Somewhat aware,Monsoon,2.83
+6,2,Mixed,Weekly,Medium,Medium,Often,Medium,Batch Cooking,Fusion,Somewhat aware,Summer,3.35
+5,2,Vegetarian,Daily,Small,Medium,Sometimes,High,Fresh Daily,Street Food,Somewhat aware,Winter,3.67
+4,3,Mixed,Daily,Medium,Low,Often,Medium,Batch Cooking,Italian,Aware,Summer,3.58
